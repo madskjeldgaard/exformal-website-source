@@ -157,8 +157,8 @@ blockquote {
 .releases-list {
     /* Styles for the list */
     list-style-type: none; /* Removes default list styling */
-    /* padding: 0; */
-    /* margin: 0; */
+    padding: 0;
+    margin: 0;
     font-size: 1em; /* Adjust font size as needed */
   min-height: 500px;
 }
@@ -203,17 +203,18 @@ blockquote {
 }
 
 .audio-player {
-    max-width: 400px; /* Adjust the width as necessary */
+    /* max-width: 400px; /* Adjust the width as necessary */ */
     margin: 0 auto;
     padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* border: 1px solid #ddd; */
+    border-radius: 0px;
+    /* background-color: #f9f9f9; */
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
 }
 
 audio {
     width: 100%;
+  border-radius: 0;
     /* Additional styling can be added here */
 }
 

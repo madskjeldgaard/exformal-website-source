@@ -4,9 +4,13 @@ date = 2024-01-14T14:50:20+01:00
 draft = false
 +++
 
-### About exformal
+
+
+### About exformal records
 
 In the business of dissolving dualisms since 2024.
+
+{{< threejs id="3dlogo1" width="600px" height="400px" jsfile="3d-exform.js" >}}
 
 ### On email communication and love
 
