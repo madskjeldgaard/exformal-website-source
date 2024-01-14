@@ -25,17 +25,36 @@ header, footer {
 /* Link Styles */
 a {
     color: black; /* Default link color */
-    text-decoration: none; /* Removes underline from links */
-    transition: color 1.5s ease; /* Smooth transition for color change */
+  font-weight: normal;
+    text-decoration: underline; /* Removes underline from links */
+    transition: color 0.5s ease, padding 1.0s ease; /* Smooth transition for color change */
 }
 
 /* Link hover and focus styles */
 a:hover, a:focus {
-    color: black; /* Color when the user hovers over or focuses on the link */
-    font-weight: 700;
-    /* background-color: black; /* Background color change for contrast */ */
-    text-decoration: underline; /* Adds underline on hover for better visibility */
+  color: #FF1818; /* Color when the user hovers over or focuses on the link */
+  background-color: #CCFF00; /* Background color change for contrast */
+  text-decoration: none; /* Adds underline on hover for better visibility */
+  font-weight: 700;
+  padding: 0 0.25em;
 }
+
+
+/* .footer-links a { */
+/*     color: black; */
+/*     text-decoration: none; */
+/* } */
+
+/* .social-media a { */
+/*     color: black; */
+/*     margin-right: 15px; */
+/* } */
+
+/* .release-item a:hover { */
+/*     /* Hover styles for the links */ */
+/*     background-color: #f8f8f8; /* Slight background change on hover */ */
+/*     color: #000; /* Change link color on hover */ */
+/* } */
 
 
 header h1 {
@@ -134,44 +153,21 @@ blockquote {
     margin-right: 15px;
 }
 
-.footer-links a {
-    color: black;
-    text-decoration: none;
-}
-
-.social-media a {
-    color: black;
-    margin-right: 15px;
-}
 
 .releases-list {
     /* Styles for the list */
     list-style-type: none; /* Removes default list styling */
-    padding: 0;
-    margin: 0;
+    /* padding: 0; */
+    /* margin: 0; */
     font-size: 1em; /* Adjust font size as needed */
   min-height: 500px;
 }
 
 .release-item {
     /* Styles for each release item */
-    margin-bottom: 1em; /* Space between items */
+    margin-bottom: 0em; /* Space between items */
     padding: 10px; /* Padding around each item */
     border-bottom: 1px solid #ccc; /* Bottom border for each item */
-}
-
-.release-item a {
-    /* Styles for the links in each release item */
-    color: #333; /* Link color */
-    text-decoration: none; /* Removes underline from links */
-    display: block; /* Makes the entire area clickable */
-    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effects */
-}
-
-.release-item a:hover {
-    /* Hover styles for the links */
-    background-color: #f8f8f8; /* Slight background change on hover */
-    color: #000; /* Change link color on hover */
 }
 
 
@@ -204,6 +200,21 @@ blockquote {
 .release-desc {
   text-align: center;
   font-style: italic;
+}
+
+.audio-player {
+    max-width: 400px; /* Adjust the width as necessary */
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+audio {
+    width: 100%;
+    /* Additional styling can be added here */
 }
 
 @media (max-width: 768px) {
