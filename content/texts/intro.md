@@ -2,10 +2,13 @@
 title = 'Intro'
 date = 2024-01-14T11:28:38+01:00
 type = 'texts'
+showTitle = true
 draft = false
 +++
 
 # Lorem Ipsum: Section One
+
+> A quote
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in efficitur orci.
 
@@ -13,11 +16,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vi
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
+{{< bandcamp 230294486 >}}
+
 ### Details
 
 - Ut enim ad minim veniam
 - Quis nostrud exercitation ullamco
 - Laboris nisi ut aliquip ex ea commodo consequat
+
+{{< youtube HBZ3iVspjd8 >}}
+
+{{< vimeo 893050040 >}}
 
 ## Subsection B
 

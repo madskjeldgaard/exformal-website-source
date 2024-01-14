@@ -6,8 +6,9 @@ draft = false
 releasetitle =  "Slipping in and out of focus"
 releaseartist=  "Mads Kjeldgaard"
 releaseyear = "2024"
-releaseformat= "Digital/Physical"
+releaseformat= "Cassette tape/Digital"
 releasedescshort = "A short description of this release"
+releasedate = 2024-04-01
 
 [[links]]
 title = "Link Title 1"

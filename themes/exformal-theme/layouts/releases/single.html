@@ -11,7 +11,7 @@
   </section>
 
   <section class="release-info">
-    <p>{{ .Params.releaseartist }}, {{ .Params.releaseyear }}.</p>
+    <p>{{ .Params.releaseartist }}, {{ .Params.releaseyear }}. {{ .Params.releaseformat }}.</p>
   </section>
 
   <h3>About</h3>
@@ -37,6 +37,19 @@
     <img src="{{ .Params.releasecover }}" />
   </section>
   {{ end }}
+
+
+  <h3>More releases</h3>
+
+<ul class="releases-list">
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+        {{ if eq .Type "releases" }}
+            <li>
+      <a href="{{ .Permalink }}">{{ .Params.releaseartist }} – {{ .Params.releasetitle }}, {{ .Params.releaseformat }}, {{ .Params.releaseyear }}</a>
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>
 
 
 </article>
