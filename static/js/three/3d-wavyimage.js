@@ -28,49 +28,40 @@ texture.colorSpace = THREE.SRGBColorSpace;
 const material = new THREE.MeshPhongMaterial({ color: 0xffffff, map: texture });
 
 // Create an object (Cube)
-// const geometry = new THREE.BoxGeometry();
-// const cube = new THREE.Mesh(geometry, material);
-// scene.add(cube);
-
-// Create an object (Sphere)
-const geometry = new THREE.SphereGeometry(0.75, 32, 32);
-const sphere = new THREE.Mesh(geometry, material);
-scene.add(sphere);
+const geometry = new THREE.CircleGeometry(15, 100);
+const cube = new THREE.Mesh(geometry, material);
+scene.add(cube);
 
 // Lighting
-const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+const ambientLight = new THREE.AmbientLight(0xffffff, 0.9);
 scene.add(ambientLight);
 
 const light = new THREE.DirectionalLight(0xffffff, 0.85);
-light.position.set(1, 1, 1);
+light.position.set(1, 1, 50);
 scene.add(light);
 
 // Camera position
-camera.position.z = 1.5;
+camera.position.z = 20.5;
 
-// Random rotation values
-const randomRotationX = Math.random() * 0.01;
-const randomRotationY = Math.random() * 0.01;
-
-// Animation loop
 function animate() {
   requestAnimationFrame(animate);
 
-  // Rotation for animation with randomization
-  // cube.rotation.x += 0.001 + randomRotationX;
-  // cube.rotation.y += 0.001 + randomRotationY;
+  const time = Date.now() * 0.001; // Current time in seconds
+  const positions = cube.geometry.attributes.position;
 
-  sphere.rotation.x += 0.001 + randomRotationX;
-  sphere.rotation.y += 0.001 + randomRotationY;
+  for (let i = 0; i < positions.count; i++) {
+    const x = positions.getX(i);
+    const y = positions.getY(i);
 
-  // Also modulate the position of the sphere (keeping it within the camera view))
-  sphere.position.x = Math.sin(Date.now() * 0.001) * 0.125;
-  sphere.position.y = Math.cos(Date.now() * 0.001) * 0.125;
+    const waveX1 = 0.5 * Math.sin(x * 2 + time);
+    const waveX2 = 0.5 * Math.sin(y * 3 + time);
+    const waveY1 = 0.5 * Math.sin(x * 3 + time);
+    const waveY2 = 0.5 * Math.sin(y * 2 + time);
 
-  // Clip the sphere to the camera view
-  sphere.scale.x = Math.sin(Date.now() * 0.0002) * 0.025;
-  sphere.scale.y = Math.sin(Date.now() * 0.0001) * 0.025;
+    positions.setZ(i, waveX1 + waveX2 + waveY1 + waveY2);
+  }
 
+  positions.needsUpdate = true; // Required to update the geometry
 
   renderer.render(scene, camera);
 }

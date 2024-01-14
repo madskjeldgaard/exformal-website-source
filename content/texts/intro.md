@@ -12,6 +12,8 @@ draft = false
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in efficitur orci.
 
+{{< mp3player "/mp3/braek.mp3" "break" >}}
+
 ## Subsection A
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

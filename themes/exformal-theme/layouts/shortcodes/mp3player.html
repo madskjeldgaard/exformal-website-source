@@ -1,6 +1,6 @@
-<div class="audio-player">
-    <audio controls>
-        <source src="{{ .Get 0 }}" type="audio/mpeg">
-        Your browser does not support the audio tag.
-    </audio>
-</div>
+<audio id="audio-player" controls>
+  <source src="{{ .Get 0 }}" type="audio/mpeg">
+    Your browser does not support the audio tag.
+</audio>
+
+<p class="mp3-title"> {{ .Get 1 }} </p>
