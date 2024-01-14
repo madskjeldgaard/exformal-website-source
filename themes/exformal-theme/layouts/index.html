@@ -1,0 +1,24 @@
+{{ define "main" }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Site.Title }}</title>
+</head>
+<body>
+    <main>
+        {{ $featuredTitle := .Site.Params.featuredPostTitle }}
+        {{ range where .Site.RegularPages "Type" "texts" }}
+            {{ if eq .Title $featuredTitle }}
+                <article>
+                    <h1>{{ .Title }}</h1>
+                    <div>{{ .Content }}</div>
+                </article>
+            {{ end }}
+        {{ end }}
+    </main>
+</body>
+</html>
+
+
+{{ end }}

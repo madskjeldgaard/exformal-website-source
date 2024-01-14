@@ -1,0 +1,18 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Exformal Records'
+theme = 'exformal-theme'
+
+[[menu.main]]
+name = "intro"
+url = "/texts/intro"
+weight = 2
+
+[[menu.main]]
+name = "releases"
+url = "/releases"
+weight = 3
+
+# Site parameters
+[params]
+featuredPostTitle = "Intro"

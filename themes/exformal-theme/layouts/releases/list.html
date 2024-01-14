@@ -1,0 +1,9 @@
+{{ define "main" }}
+<ul class="releases-list">
+    {{ range .Pages }}
+   <li class="release-item">
+    <a href="{{ .Permalink }}">{{ .Params.releaseartist }} – {{ .Params.releasetitle }}, {{ .Params.releaseyear }}</a>
+  </li>
+    {{ end }}
+</ul>
+{{ end }}

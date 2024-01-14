@@ -1,0 +1,161 @@
+body {
+    font-family: 'Merriweather', serif; /* Merriweather for a classic, readable look */
+    font-size: 22px; /* Comfortable reading size */
+    line-height: 1.8; /* Improved line spacing for readability */
+    color: #333; /* Softer than black for reduced eye strain */
+    background-color: #fdfdfd; /* Light, neutral background */
+  letter-spacing: 0.7px; /* Slight increase in letter spacing for readability */
+
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    text-align: center;
+    padding: 1em;
+    /* background-color: #f2f2f2; */
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* Link Styles */
+a {
+    color: black; /* Default link color */
+    text-decoration: none; /* Removes underline from links */
+    transition: color 1.5s ease; /* Smooth transition for color change */
+}
+
+/* Link hover and focus styles */
+a:hover, a:focus {
+    color: black; /* Color when the user hovers over or focuses on the link */
+    font-weight: 700;
+    /* background-color: black; /* Background color change for contrast */ */
+    text-decoration: underline; /* Adds underline on hover for better visibility */
+}
+
+
+header h1 {
+    font-size: 1.0em;
+      margin: 0;
+    flex-grow: 1; /* Allows the title to grow and push the menu to the center */
+    text-align: left; /* Aligns the title to the left */
+}
+
+nav {
+    flex-grow: 2; /* Allows the nav to take up remaining space and center the menu */
+    text-align: right; /* Centers the menu items */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; /* Remove default margin */
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+article {
+    margin: 2em auto; /* Increased margin for a centered look */
+    padding: 2em; /* Spacious padding for readability */
+    max-width: 740px; /* Optimal line length for reading */
+    background-color: white;
+  font-weight: 400;
+
+  letter-spacing: 0.2px; /* Slight increase in letter spacing for readability */
+    box-shadow: 0 0px 0px rgba(0,0,0,0.1);
+}
+
+article h1 {
+  text-align: center;
+  font-size: 2.5em;
+
+}
+
+article h2 {
+    font-size: 2em;
+    color: #444;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    margin-bottom: 1em; /* Space between paragraphs */
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.releases-list {
+    /* Styles for the list */
+    list-style-type: none; /* Removes default list styling */
+    padding: 0;
+    margin: 0;
+    font-size: 1em; /* Adjust font size as needed */
+}
+
+.release-item {
+    /* Styles for each release item */
+    margin-bottom: 1em; /* Space between items */
+    padding: 10px; /* Padding around each item */
+    border-bottom: 1px solid #ccc; /* Bottom border for each item */
+}
+
+.release-item a {
+    /* Styles for the links in each release item */
+    color: #333; /* Link color */
+    text-decoration: none; /* Removes underline from links */
+    display: block; /* Makes the entire area clickable */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.release-item a:hover {
+    /* Hover styles for the links */
+    background-color: #f8f8f8; /* Slight background change on hover */
+    color: #000; /* Change link color on hover */
+}
+
+
+/* Meta data under the release title in the single.html */
+.release-info {
+  list-style-type: none; /* Removes the default list bullet points */
+  padding: 0;
+  font-style: normal;
+  text-align: center;
+}
+
+/* section release-desc */
+.release-desc {
+  text-align: center;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+    article {
+        margin: 2em 5%;
+        padding: 1em;
+    }
+
+  header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    header h1, nav {
+        flex-grow: 0; /* Resets flex-grow on mobile */
+        width: 100%; /* Full width for smaller screens */
+        margin-bottom: 10px; /* Spacing between title and menu */
+    }
+}

@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article class="release-post">
+    <h1 class="release-title">{{ .Params.releasetitle }}</h1>
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  <time datetime="{{ $dateMachine }}"></time>
+
+  <section class="release-desc">
+    <p>{{ .Params.releasedescshort }}</p>
+  </section>
+
+  <section class="release-info">
+    <p>{{ .Params.releaseartist }}, {{ .Params.releaseyear }}.</p>
+  </section>
+
+  <h3>About</h3>
+  <section class="release-content">
+    {{ .Content }}
+  </section>
+
+
+  {{ if .Params.links }} <!-- Check if there are any links -->
+
+  <h3>Links</h3>
+    <ul class="release-links">
+        {{ range .Params.links }}
+            <li><a href="{{ .url }}" target="_blank">{{ .title }}</a></li>
+        {{ end }}
+    </ul>
+  {{ end }}
+
+
+  {{ if .Params.releasecover }}
+  <h3>Cover</h3>
+  <section class="release-cover">
+    <img src="{{ .Params.releasecover }}" />
+  </section>
+  {{ end }}
+
+
+</article>
+{{ end }}
