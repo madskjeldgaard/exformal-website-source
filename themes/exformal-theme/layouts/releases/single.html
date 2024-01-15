@@ -6,14 +6,17 @@
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}"></time>
 
+  <!-- short subtitle for release -->
   <section class="release-desc">
     <p>{{ .Params.releasedescshort }}</p>
   </section>
 
+  <!-- Basic info -->
   <section class="release-info">
     <p>{{ .Params.releaseartist }}, {{ .Params.releaseyear }}. {{ .Params.releaseformat }}.</p>
   </section>
 
+  <!-- description of release -->
   <h3>About</h3>
   <section class="release-content">
     {{ .Content }}
@@ -34,7 +37,11 @@
   {{ if .Params.releasecover }}
   <h3>Cover</h3>
   <section class="release-cover">
-    <img src="{{ .Params.releasecover }}" />
+    <img class="release-cover-image" src="{{ .Params.releasecover }}" />
+
+    <!-- Cover artist as caption -->
+    <p class="release-cover-caption">Cover art by {{ .Params.releasecoverartist }}</p>
+
   </section>
   {{ end }}
 

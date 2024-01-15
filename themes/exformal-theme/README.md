@@ -9,6 +9,8 @@ Written by Mads Kjeldgaard 2024.
 - Custom "release" content type organizes releases with metadata
 - Easily insert media via shortcodes for bandcamp, vimeo, youtube and soundcloud
 - Insert 3D graphics via shortcodes for threejs patches
+- Easy to theme directly from the site's config.toml file
+- Cloaks emails using [cloakemail shortcode](https://github.com/martignoni/hugo-cloak-email)
 
 ## Usage
 

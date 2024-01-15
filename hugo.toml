@@ -23,6 +23,13 @@ weight = 3
 [params]
 featuredPostTitle = "Intro"
 
+# Colors
+primaryColor = "#FF1818"
+secondaryColor = "#CCFF00"
+textColor = "#333"
+quoteColor = "#666"
+backgroundColor = "#fdfdfd"
+
 [params.social]
   instagram = "exformalrecords"
   bandcamp = "exformalrecords"

@@ -1,100 +1,105 @@
 body {
-    font-family: 'Merriweather', serif; /* Merriweather for a classic, readable look */
-    font-size: 22px; /* Comfortable reading size */
-    line-height: 1.8; /* Improved line spacing for readability */
-    color: #333; /* Softer than black for reduced eye strain */
-    background-color: #fdfdfd; /* Light, neutral background */
-  letter-spacing: 0.7px; /* Slight increase in letter spacing for readability */
+  font-family: 'Merriweather', serif;
+  /* Merriweather for a classic, readable look */
+  font-size: 22px;
+  /* Comfortable reading size */
+  line-height: 1.8;
+  /* Improved line spacing for readability */
+  color: var(--text-color);
+  /* Softer than black for reduced eye strain */
+  background-color: var(--background-color);
+  /* Light, neutral background */
+  letter-spacing: 0.7px;
+  /* Slight increase in letter spacing for readability */
 
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 
 }
 
-header, footer {
-    text-align: center;
-    padding: 1em;
-    /* background-color: #f2f2f2; */
+header,
+footer {
+  text-align: center;
+  padding: 1em;
+  /* background-color: #f2f2f2; */
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 
 /* Link Styles */
 a {
-    color: black; /* Default link color */
+  color: var(--link-color);
+  /* Default link color */
   font-weight: normal;
-    text-decoration: underline; /* Removes underline from links */
-    transition: color 0.5s ease, padding 1.0s ease; /* Smooth transition for color change */
+  text-decoration: underline;
+  /* Removes underline from links */
+  transition: color 0.5s ease, padding 1.0s ease;
+  /* Smooth transition for color change */
 }
 
 /* Link hover and focus styles */
-a:hover, a:focus {
-  color: #FF1818; /* Color when the user hovers over or focuses on the link */
-  background-color: #CCFF00; /* Background color change for contrast */
-  text-decoration: none; /* Adds underline on hover for better visibility */
+a:hover,
+a:focus {
+  color: var(--link-hover-color);
+  /* Color when the user hovers over or focuses on the link */
+  background-color: var(--link-hover-bg-color);
+  /* Background color change for contrast */
+  text-decoration: none;
+  /* Adds underline on hover for better visibility */
   font-weight: 700;
   padding: 0 0.25em;
 }
 
-
-/* .footer-links a { */
-/*     color: black; */
-/*     text-decoration: none; */
-/* } */
-
-/* .social-media a { */
-/*     color: black; */
-/*     margin-right: 15px; */
-/* } */
-
-/* .release-item a:hover { */
-/*     /* Hover styles for the links */ */
-/*     background-color: #f8f8f8; /* Slight background change on hover */ */
-/*     color: #000; /* Change link color on hover */ */
-/* } */
-
-
 header h1 {
-    font-size: 1.0em;
-      margin: 0;
-    flex-grow: 1; /* Allows the title to grow and push the menu to the center */
-    text-align: left; /* Aligns the title to the left */
+  font-size: 1.0em;
+  margin: 0;
+  flex-grow: 1;
+  /* Allows the title to grow and push the menu to the center */
+  text-align: left;
+  /* Aligns the title to the left */
 }
 
 nav {
-    flex-grow: 2; /* Allows the nav to take up remaining space and center the menu */
-    text-align: right; /* Centers the menu items */
+  flex-grow: 2;
+  /* Allows the nav to take up remaining space and center the menu */
+  text-align: right;
+  /* Centers the menu items */
 }
 
 nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0; /* Remove default margin */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  /* Remove default margin */
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 20px;
+  display: inline;
+  margin-right: 20px;
 }
 
 nav ul li a {
-    text-decoration: none;
-    color: #333;
+  text-decoration: none;
+  color: var(--text-color);
 }
 
 article {
-    margin: 2em auto; /* Increased margin for a centered look */
-    padding: 2em; /* Spacious padding for readability */
-    max-width: 740px; /* Optimal line length for reading */
-    background-color: white;
+  margin: 2em auto;
+  /* Increased margin for a centered look */
+  padding: 2em;
+  /* Spacious padding for readability */
+  max-width: 740px;
+  /* Optimal line length for reading */
+  background-color: var(--background-color);
   font-weight: 400;
 
-  letter-spacing: 0.2px; /* Slight increase in letter spacing for readability */
-    box-shadow: 0 0px 0px rgba(0,0,0,0.1);
-      min-height: 200px;
+  letter-spacing: 0.2px;
+  /* Slight increase in letter spacing for readability */
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+  min-height: 200px;
 
 }
 
@@ -105,114 +110,132 @@ article h1 {
 }
 
 article h2 {
-    font-size: 2em;
-    color: #444;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+  font-size: 2em;
+  color: var(--text-color);
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 p {
-    margin-bottom: 1em; /* Space between paragraphs */
+  margin-bottom: 1em;
+  /* Space between paragraphs */
+}
+
+p.release-cover-caption {
+  font-size: 0.8em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 footer p {
-    margin: 0;
-    font-size: 0.9em;
+  margin: 0;
+  font-size: 0.9em;
 }
 
 blockquote {
-    font-style: italic; /* Apply italics */
-    font-size: 1.0em;
-    margin-left: 20px; /* Optional: Add some left margin */
-    /* border-left: 3px solid #ccc; /* Optional: Add a left border for styling */ */
-    padding-left: 15px; /* Optional: Add some padding */
-    color: #555; /* Optional: Adjust the color */
+  font-style: italic;
+  /* Apply italics */
+  font-size: 1.0em;
+  margin-left: 20px;
+  /* Optional: Add some left margin */
+  /* border-left: 3px solid #ccc; /* Optional: Add a left border for styling */
+  */ padding-left: 15px;
+  /* Optional: Add some padding */
+  color: var(--quote-color);
+  /* Optional: Adjust the color */
 }
 
 .active-menu-item {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .site-footer {
-    /* background-color: #333; /* Dark background */ */
-    color: white; /* White text color */
-    padding: 20px 0;
-    text-align: center;
-    width: 80%;
-    margin: 0 auto;
-    max-width: 1200px;
+  padding: 20px 0;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
 .footer-links {
-    list-style-type: none;
-    padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 .footer-links li {
-    display: inline;
-    margin-right: 15px;
+  display: inline;
+  margin-right: 15px;
 }
 
 
 .releases-list {
-    /* Styles for the list */
-    list-style-type: none; /* Removes default list styling */
-    padding: 0;
-    margin: 0;
-    font-size: 1em; /* Adjust font size as needed */
+  /* Styles for the list */
+  list-style-type: none;
+  /* Removes default list styling */
+  padding: 0;
+  margin: 0;
+  font-size: 1em;
+  /* Adjust font size as needed */
   min-height: 500px;
 }
 
 .release-item {
-    /* Styles for each release item */
-    margin-bottom: 0em; /* Space between items */
-    padding: 10px; /* Padding around each item */
-    border-bottom: 1px solid #ccc; /* Bottom border for each item */
+  /* Styles for each release item */
+  margin-bottom: 0em;
+  /* Space between items */
+  padding: 10px;
+  /* Padding around each item */
+  border-bottom: 1px solid #ccc;
+  /* Bottom border for each item */
 }
-
 
 /* Meta data under the release title in the single.html */
 .release-info {
-  list-style-type: none; /* Removes the default list bullet points */
+  list-style-type: none;
+  /* Removes the default list bullet points */
   padding: 0;
   font-style: normal;
   text-align: center;
 }
 
 /* For shortcodes  */
-.video-responsive, .soundcloud-responsive, .bandcamp-responsive {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-    height: 0;
-    overflow: hidden;
+.video-responsive,
+.soundcloud-responsive,
+.bandcamp-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 Aspect Ratio */
+  height: 0;
+  overflow: hidden;
 }
 
-.video-responsive iframe, .soundcloud-responsive iframe, .bandcamp-responsive iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+.video-responsive iframe,
+.soundcloud-responsive iframe,
+.bandcamp-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 
 /* section release-desc */
-.release-desc {
+.release-desc,
+.subtitle {
   text-align: center;
   font-style: italic;
 }
 
 audio#audio-player {
-    /* max-width: 400px; /* Adjust the width as necessary */ */
-    margin: 0 auto;
-    padding: 10px;
-    /* border: 1px solid #ddd; */
-    border-radius: 0px;
-    /* background-color: #f9f9f9; */
-    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 0px;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
 }
 
-.threejscanvas{
+.threejscanvas {
   width: 100%;
   height: 100%;
   text-align: center;
@@ -226,26 +249,41 @@ audio#audio-player {
   padding: 0;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+
+
 audio {
-    width: 100%;
+  width: 100%;
   border-radius: 0;
-    /* Additional styling can be added here */
+  /* Additional styling can be added here */
 }
 
 @media (max-width: 768px) {
-    article {
-        margin: 2em 5%;
-        padding: 1em;
-    }
+  article {
+    margin: 2em 5%;
+    padding: 1em;
+  }
 
   header {
-        flex-direction: column;
-        text-align: center;
-    }
+    flex-direction: column;
+    text-align: center;
+  }
 
-    header h1, nav {
-        flex-grow: 0; /* Resets flex-grow on mobile */
-        width: 100%; /* Full width for smaller screens */
-        margin-bottom: 10px; /* Spacing between title and menu */
-    }
+  header h1,
+  nav {
+    flex-grow: 0;
+    /* Resets flex-grow on mobile */
+    width: 100%;
+    /* Full width for smaller screens */
+    margin-bottom: 10px;
+    text-align: center;
+    /* Spacing between title and menu */
+  }
 }
