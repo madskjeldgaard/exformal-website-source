@@ -25,7 +25,13 @@ const loader = new THREE.TextureLoader();
 const texture = loader.load(imagePath);
 
 texture.colorSpace = THREE.SRGBColorSpace;
-const material = new THREE.MeshPhongMaterial({ color: 0xffffff, map: texture });
+const material = new THREE.MeshPhongMaterial({
+  color: 0xffffff,
+  map: texture,
+  // shininess: 0,
+  // roughness: 10,
+
+});
 
 // Create an object (Cube)
 // const geometry = new THREE.BoxGeometry();
@@ -47,6 +53,14 @@ scene.add(light);
 
 // Camera position
 camera.position.z = 1.5;
+
+// Set camera and cube in the middle
+camera.position.x = 0;
+camera.position.y = 0;
+camera.position.z = 2;
+
+sphere.position.x = 0;
+sphere.position.y = 0;
 
 // Random rotation values
 const randomRotationX = Math.random() * 0.01;

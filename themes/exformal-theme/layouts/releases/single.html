@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="release-post">
-    <h1 class="release-title">{{ .Params.releasetitle }}</h1>
+  <h1 class="release-title">{{ .Params.releasetitle }}</h1>
 
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
@@ -16,47 +16,45 @@
     <p>{{ .Params.releaseartist }}, {{ .Params.releaseyear }}. {{ .Params.releaseformat }}.</p>
   </section>
 
-  <!-- description of release -->
-  <h3>About</h3>
-  <section class="release-content">
-    {{ .Content }}
-  </section>
-
-
-  {{ if .Params.links }} <!-- Check if there are any links -->
-
-  <h3>Links</h3>
-    <ul class="release-links">
-        {{ range .Params.links }}
-            <li><a href="{{ .url }}" target="_blank">{{ .title }}</a></li>
-        {{ end }}
-    </ul>
-  {{ end }}
-
-
+  <!-- cover -->
   {{ if .Params.releasecover }}
-  <h3>Cover</h3>
   <section class="release-cover">
     <img class="release-cover-image" src="{{ .Params.releasecover }}" />
 
     <!-- Cover artist as caption -->
+    {{ if .Params.releasecoverartist }}
     <p class="release-cover-caption">Cover art by {{ .Params.releasecoverartist }}</p>
+    {{ end }}
 
   </section>
   {{ end }}
 
+  <!-- description of release -->
+  <section class="release-content">
+    {{ .Content }}
+  </section>
+
+  {{ if .Params.links }} <!-- Check if there are any links -->
+
+  <h3>Links</h3>
+  <ul class="release-links">
+    {{ range .Params.links }}
+    <li><a href="{{ .url }}" target="_blank">{{ .title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
 
   <h3>More releases</h3>
 
-<ul class="releases-list">
+  <ul class="releases-list">
     {{ range .Site.RegularPages.ByDate.Reverse }}
-        {{ if eq .Type "releases" }}
-            <li>
+    {{ if eq .Type "releases" }}
+    <li>
       <a href="{{ .Permalink }}">{{ .Params.releaseartist }} – {{ .Params.releasetitle }}, {{ .Params.releaseformat }}, {{ .Params.releaseyear }}</a>
-            </li>
-        {{ end }}
+    </li>
     {{ end }}
-</ul>
+    {{ end }}
+  </ul>
 
 
 </article>

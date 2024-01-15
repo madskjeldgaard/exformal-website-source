@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'exformal.art'
 languageCode = 'en-us'
 title = 'Exformal Records'
 theme = 'exformal-theme'
@@ -18,10 +18,14 @@ name = "about"
 url = "/pages/about"
 weight = 3
 
+[[menu.main]]
+name = "bandcamp"
+url = "https://exformalrecords.bandcamp.com/"
+weight = 4
 
 # Site parameters
 [params]
-featuredPostTitle = "Intro"
+featuredPostTitle = 'About Exformal'
 
 # Colors
 primaryColor = "#FF1818"
