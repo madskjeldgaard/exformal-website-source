@@ -4,16 +4,6 @@ title = 'Exformal Records'
 theme = 'exformal'
 
 [[menu.main]]
-name = "intro"
-url = "/texts/intro"
-weight = 1
-
-[[menu.main]]
-name = "releases"
-url = "/releases"
-weight = 2
-
-[[menu.main]]
 name = "about"
 url = "/pages/about"
 weight = 3
