@@ -6,9 +6,9 @@ subTitle = "Dissolving dualisms since 2024."
 draft = false
 +++
 
-{{< threejs id="3dlogo1" width="800px" height="400px" jsfile="3d-exform.js" >}}
+{{< threejs id="3dlogo1" width="300px" height="400px" jsfile="3d-exform.js" >}}
 
-Exformal is a platform for sounds, music and text that challenge our notion of the real by directly engaging with it. We recognise that the segregation of objects, which we hitherto have mistaken for a world view, is one big joke on ourselves. We stare into the bulbous eyes of reality and tell it like it is: _Show’s over, buddy…_
+Exformal is a platform for sounds, music and text that challenge our notion of the real by directly engaging with it. 
 
 In short, Exformal is like the venerable Dr. Faustroll who shrinks to the size of a mite to examine a drop of water up close:
 
