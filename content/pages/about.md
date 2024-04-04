@@ -2,15 +2,15 @@
 title = 'About Exformal'
 date = 2024-01-14T14:50:20+01:00
 showTitle = true
-subTitle = "Dissolving dualisms since 2024."
+# subTitle = "Dissolving dualisms since 2024."
 draft = false
 +++
 
-{{< threejs id="3dlogo1" width="300px" height="400px" jsfile="3d-exform.js" >}}
+<!-- {{< threejs id="3dlogo1" width="300px" height="400px" jsfile="3d-exform.js" >}} -->
 
-Exformal is a platform for sounds, music and text that challenge our notion of the real by directly engaging with it. 
+Exformal is a platform for sounds, music and text. 
 
-In short, Exformal is like the venerable Dr. Faustroll who shrinks to the size of a mite to examine a drop of water up close:
+We aspire to be like the venerable Dr. Faustroll who shrinks to the size of a mite to examine a drop of water up close:
 
 > And having shrunk to the classic size of a mite, as a paradigm of smallness, he traveled along the length of a cabbage leaf, paying no attention to his fellow mites or to the magnified aspect of his surroundings, until he encountered the Water. This was a globe, twice his size, through whose transparency the outlines of the universe appeared to him gigantically enlarged... He gave the orb a light tap, as if knocking on a door: the deracinated eye of malleable glass "adapted itself" like a living eye, became presbyopic, lengthened itself along its horizontal diameter into an ovoid myopia, repulsed Faustroll by means of this elastic inertia and became spherical once more. The doctor, taking small steps, rolled the crystal globe, with some considerable difficulty, toward a neighboring globe, slipping on the rails of the cabbage-leaf's veins; coming together, the two spheres sucked each other in, tapering in the process, until suddenly a new globe of twice the size rocked placidly in front of Faustroll.
 > With the tip of his boot the doctor kicked out at this unexpected development of the elements: an explosion, formidable in its fragmentation and noise...
