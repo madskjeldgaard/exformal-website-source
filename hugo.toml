@@ -1,4 +1,4 @@
-baseURL = 'exformal.art'
+baseURL = 'https://www.exformal.art'
 languageCode = 'en-us'
 title = 'Exformal Records'
 theme = 'exformal'
