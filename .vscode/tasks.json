@@ -4,7 +4,7 @@
     {
       "label": "Build",
       "type": "shell",
-      "command": "hugo --cleanDestinationDir --verbose",
+      "command": "hugo --cleanDestinationDir --verbose --logLevel info --destination public",
     },
     {
       "label": "Publish",
