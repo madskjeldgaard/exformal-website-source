@@ -1,3 +1,6 @@
 [submodule "themes/exformal"]
 	path = themes/exformal
 	url = git@github.com:madskjeldgaard/exformal-hugo-theme.git
+[submodule "exformalrecords"]
+	path = exformalrecords
+	url = git@github.com:madskjeldgaard/exformalrecords.git
