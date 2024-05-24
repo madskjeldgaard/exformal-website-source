@@ -8,6 +8,6 @@ draft = false
 
 
 > This is the realm the exformal: the site where border negotiations unfold between what is rejected and what is admitted, products and waste.
-> – [Nicolas Bourriaud, The Exform](https://exactchange.com/books/p/alfred-jarry-exploits-amp-opinions-of-dr-faustroll-pataphysician)
+> – [Nicolas Bourriaud, The Exform](https://www.versobooks.com/products/192-the-exform)
 
 Exformal is a platform for sounds, music and text. {{< cloakemail "hi@exformal.art" >}}.
