@@ -30,5 +30,4 @@ jobs:
           publish_dir: ./public
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          publish_branch: main
           repository_name: 'madskjeldgaard/exformalrecords'
