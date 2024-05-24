@@ -1,4 +1,4 @@
-baseURL = 'https://www.exformal.art'
+baseURL = 'https://exformal.art'
 languageCode = 'en-us'
 title = 'Exformal Records'
 theme = 'exformal'
@@ -6,6 +6,11 @@ theme = 'exformal'
 [[menu.main]]
 name = "about"
 url = "/pages/about"
+weight = 3
+
+[[menu.main]]
+name = "releases"
+url = "/releases"
 weight = 3
 
 [[menu.main]]
