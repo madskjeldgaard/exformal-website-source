@@ -4,12 +4,12 @@
     {
       "label": "Build",
       "type": "shell",
-      "command": "hugo --cleanDestinationDir --verbose --logLevel info --destination ../exformalrecords.art-public",
+      "command": "hugo --cleanDestinationDir --verbose --logLevel info --destination public",
     },
     {
       "label": "Publish",
       "type": "shell",
-      "command": "cd ../exformalrecords.art-public && git add --all && git commit -m \"autocommit\" && git push",
+      "command": "cd public && git add --all && git commit -m \"autocommit from neovim\" && git push",
       "dependsOn": "Build"
     }
   ]
