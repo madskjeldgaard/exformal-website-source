@@ -21,6 +21,7 @@ weight = 4
 # Site parameters
 [params]
 featuredPostTitle = 'About Exformal'
+logo = 'logos/exformal-logo1.png'
 
 # Colors
 primaryColor = "#FF1818"

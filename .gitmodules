@@ -1,6 +1,3 @@
 [submodule "themes/exformal"]
 	path = themes/exformal
 	url = git@github.com:madskjeldgaard/exformal-hugo-theme.git
-[submodule "public"]
-	path = public
-	url = git@github.com:madskjeldgaard/exformal-website-public.git

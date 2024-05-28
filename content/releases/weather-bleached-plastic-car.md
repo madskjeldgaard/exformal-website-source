@@ -7,6 +7,7 @@ releaseformat = "Digital/Video"
 releasedescshort = "Slow music"
 releasedate = "2024-06-01"
 releasecover = "img/covers/weather bleached plastic car cover 1.png"
+buylink="https://exformalrecords.bandcamp.com/"
 date = "2024-05-13"
 draft=true
 
