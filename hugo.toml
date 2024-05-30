@@ -4,23 +4,13 @@ title = 'Exformal Records'
 theme = 'exformal'
 
 [[menu.main]]
-name = "about"
+name = ""
 url = "/pages/about"
 weight = 3
 
-[[menu.main]]
-name = "releases"
-url = "/releases"
-weight = 3
-
-[[menu.main]]
-name = "bandcamp"
-url = "https://exformalrecords.bandcamp.com/"
-weight = 4
-
 # Site parameters
 [params]
-featuredPostTitle = 'About Exformal'
+featuredPostTitle = 'A Record Label'
 logo = 'logos/exformal-logo1.png'
 
 # Colors
@@ -31,5 +21,5 @@ quoteColor = "#666"
 backgroundColor = "#fdfdfd"
 
 [params.social]
-  instagram = "exformalrecords"
-  bandcamp = "exformalrecords"
+  instagram = "https://instagram.com/exformalrecords"
+  bandcamp = "https://exformalrecords.bandcamp.com/"

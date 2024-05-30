@@ -24,7 +24,7 @@
 	Feel free to adjust your CSS/SCSS as desired.
 */}}
 {{- $imgClass := "w-full h-auto animate-fade" -}}
-{{- $dataSzes := "(min-width: 1024px) 100vw, 50vw" -}}
+{{- $dataSizes := "(min-width: 1024px) 100vw, 50vw" -}}
 {{/*
 	Now we'll create the 20-pixel-wide LQIP and turn it into
 	Base64-encoded data, which is better for performance and caching.
@@ -82,7 +82,7 @@
 					{{- end -}}
 				{{- end -}}
 			{{- end -}}"
-			sizes="{{ $dataSzes }}"
+			sizes="{{ $dataSizes }}"
 		/>
 		<source
 			type="image/jpeg"
@@ -94,7 +94,7 @@
 					{{- end -}}
 				{{- end -}}
 			{{- end -}}"
-			sizes="{{ $dataSzes }}"
+			sizes="{{ $dataSizes }}"
 		/>
 		<img class="{{ $imgClass }}"
 			src="{{ $actualImg.RelPermalink }}"

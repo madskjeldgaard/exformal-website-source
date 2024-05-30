@@ -9,7 +9,7 @@
     {
       "label": "Publish",
       "type": "shell",
-      "command": "cd ../exformalrecords.art-public && git add --all && git commit -m \"autocommit from neovim\" && git push",
+      "command": "cd ../exformalrecords.art-public && git pull && git add --all && git commit -m \"autocommit from neovim\" && git push",
       "dependsOn": "Build"
     }
   ]
