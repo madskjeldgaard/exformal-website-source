@@ -10,7 +10,7 @@ weight = 3
 
 # Site parameters
 [params]
-featuredPostTitle = 'A Record Label'
+featuredPostTitle = 'Newsletter'
 logo = 'logos/exformal-logo1.png'
 
 # Colors
