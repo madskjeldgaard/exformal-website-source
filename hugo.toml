@@ -4,9 +4,9 @@ title = 'Exformal Records'
 theme = 'exformal'
 
 [[menu.main]]
-name = ""
-url = "/pages/about"
-weight = 3
+name = "newsletter"
+url = "/pages/newsletter"
+weight = 1
 
 # Site parameters
 [params]
@@ -16,10 +16,14 @@ logo = 'logos/exformal-logo1.png'
 # Colors
 primaryColor = "#FF1818"
 secondaryColor = "#CCFF00"
-textColor = "#333"
+textColor = "#212529"
 quoteColor = "#666"
-backgroundColor = "#fdfdfd"
+backgroundColor = "#ffffff"
+
+secondaryBgColor = "#D4D4D4"
+secondaryTextColor = "#3c3836"
 
 [params.social]
   instagram = "https://instagram.com/exformalrecords"
   bandcamp = "https://exformalrecords.bandcamp.com/"
+  mastodon = "https://mastodon.social/@exformal"
