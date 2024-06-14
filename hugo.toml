@@ -4,9 +4,14 @@ title = 'Exformal Records'
 theme = 'exformal'
 
 [[menu.main]]
+name = "shop"
+url = "https://exformalrecords.bandcamp.com/"
+weight = 1
+
+[[menu.main]]
 name = "newsletter"
 url = "/pages/newsletter"
-weight = 1
+weight = 2
 
 # Site parameters
 [params]
