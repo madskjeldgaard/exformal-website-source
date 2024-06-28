@@ -9,7 +9,10 @@ add_artist:
 add_text:
   ./themes/exformal/scripts/commands.sh add_text
 
-build:
+remove_macos_files:
+  find . -name '.DS_Store' -type f -delete
+
+build: remove_macos_files
     hugo --cleanDestinationDir --verbose --logLevel info --destination "{{DEST_DIR}}"
 
 publish: build

@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Exformal Records'
 theme = 'exformal'
 
+# [[menu.main]]
+# name = "releases"
+# url = "/releases"
+# weight = 3
+
 [[menu.main]]
 name = "shop"
 url = "https://exformalrecords.bandcamp.com/"
@@ -32,3 +37,4 @@ secondaryTextColor = "#3c3836"
   instagram = "https://instagram.com/exformalrecords"
   bandcamp = "https://exformalrecords.bandcamp.com/"
   mastodon = "https://mastodon.social/@exformal"
+  mixcloud = "https://www.mixcloud.com/exformal"
