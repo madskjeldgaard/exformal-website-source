@@ -6,8 +6,6 @@ subTitle = ""
 draft = false
 +++
 
-{{< imgh src="beach1.jpg" alt="Beach" caption="Photo: Mads Kjeldgaard." >}}
-
 To stay up to date with Exformal Records, you do not need to sell your personal data to soul harvesting Silicon Valley conglomerates. Just sign up to our newsletter and we'll send you an occasional email about what's going on.
 
 {{< mailinglist >}}

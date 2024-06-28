@@ -73,12 +73,13 @@ I start playing Satie's Gymnopédies on the piano. This all happens in a period 
 
 Satie [coined the term _furniture music_](http://www.slashseconds.org/issues/001/001/articles/11_psuchin/index.php), that is "a music which is like furniture - a music, that is, which will be part of the noises of the environment, will take them into consideration. I think of it as melodious, softening the noises of the knives and forks at dinner, not dominating them, not imposing itself. It would fill up those heavy silences that sometime fall between friends dining together." 
 
-Erik had a need to populate spaces, to battle silence, at least according to what he said – even though his music was telling him to resist this urge. I for my part would rather embrace the vacant lots of the city than fill them with gravel, glass and iron.
+{{< imgh src="beach1.jpg" alt="Beach" caption="Photo: Mads Kjeldgaard." >}}
 
+Erik had a need to populate spaces, to battle silence, at least according to what he said – even though his music was telling him to resist this urge. I for my part would rather embrace the vacant lots of the city than fill them with gravel, glass and iron.
 
 ## Hearing the chorus
 
-The sheet music is in front of me now. I stumble through the notes slowly, like a child learning to read, spelling out each syllable at a time, slowly and patiently. One note after the other, each one a shocking revelation in itself. Is this music a piece of furniture? That would make it a dead, lifeless object in the room. To me it is some thing alive, a body swashing with blood, because I am playing it, and I am a human being, alive in this room. 
+The sheet music is in front of me now. I stumble through the notes slowly, like a child learning to read, spelling out each syllable, slowly and patiently. One note after the other, each one a shocking revelation in itself. Is this music a piece of furniture? That would make it a dead, lifeless object in the room. To me it is some thing alive, a body swashing with blood, because I am playing it, and I am a human being, alive in this room. 
 
 The last remnants of the past note ringing out in the iron frame of the instrument, I find the next note with my fingers, harmonics decayed to something barely perceptible, and press it with a motion as if tripping over a garden rake and my face finding the moist, grassy ground. As it sounds out with all of the city in the background, I get a fuzzy feeling in the tummy, as I take it all in. There's a poem by [Whitman about this](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version), I think, or a similar experience at least: 
 
@@ -93,10 +94,10 @@ The last remnants of the past note ringing out in the iron frame of the instrume
 
 In the practice of chi gong there is this ideal of the crane: Standing still by a lake, always ready to snap a fish in its beak. It's not asleep, it's not moving, it's actively relaxed and fully aware of its surroundings. This is a way of life. By the piano, in between notes, I become a crane myself, observing the sounds in my surroundings. "Active relaxation", is what the chi gong-masters call this. I feel the wind rustling in my feathers, and I notice the creases in the water surface from thick, slow raindrops, smeared out by the rolling caresses of the air that just passed by me. 
 
-Eventually, this becomes a new practice for me. I place microphones on the iron frame of the piano, so I can be closer to the strings as they are struck by the soft hammers, and we can hear the reverberation, the shimmering klang of the material. I record it all through loopers running at different speeds, albeit all of them slow and long in duration. 
-
 {{< imgh src="releases/ex001/pianomic1.jpg" alt="Piano frame with microphone on it" caption="Microphone placement: Attached directly to the steel frame of the piano. Photo: Mads Kjeldgaard." >}}
+
+Eventually, this becomes a new practice for me. I place microphones on the iron frame of the piano, so I can be closer to the strings as they are struck by the soft hammers, to hear the reverberation, the shimmering klang of the material at hand. I record it all through loopers running at different speeds, albeit all of them slow and long in duration, to be able to hear again what I heard, but from the perspective of another point in time. 
 
 After my morning routines, I seat myself by the piano every day like this, guiding myself as if I was a waiter at a restaurant showing a guest to their seat in a restaurant. Properly placed, I turn my attention to the sounds from the open window that leak in between the notes – I notice the banality of it, and I love it: Bird feet rustling in the rain gutter above the window, it's the neighborhood's magpies scheming again, tap-tap-tap. Tap-tap. Tap. 
 
-
+_– Mads Kjeldgaard, Nørrebro, 2024_
