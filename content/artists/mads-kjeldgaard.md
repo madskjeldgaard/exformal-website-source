@@ -1,11 +1,12 @@
 +++
+draft=true
+
 title = "Mads Kjeldgaard"
 artistname = "Mads Kjeldgaard"
 artistbio = "A music composer."
 artistphoto = "/images/artists/madskjeldgaard-tucson.jpg"
 artistphotocredit = ""
 date = "2024-05-14"
-draft=true
 
 [[links]]
 title = "Website of Mads Kjeldgaard"

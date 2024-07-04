@@ -20,6 +20,8 @@ weight = 2
 
 # Site parameters
 [params]
+description = "Exformal Records is a record label."
+keywords="diy record label, record label, experimental music, avantgarde music, art"
 featuredPostTitle = 'Newsletter'
 logo = 'logos/exformal-logo1.png'
 

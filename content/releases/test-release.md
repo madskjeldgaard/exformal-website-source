@@ -1,0 +1,45 @@
++++
+# Title of post
+title = "Test release 3"
+
+# Release basics
+releasetitle = "Test release 3"
+releaseartist = "Mads Kjeldgaard"
+releaseyear = "2024"
+releaseformat = "CD-R/Digital/Video"
+releasecover = "/images/covers/defaults/default3.png"
+
+releasecatnum = "EX003"
+artistwebsite = "https://madskjeldgaard.dk"
+
+buylink="https://exformalrecords.bandcamp.com/"
+date = "2024-05-13"
+draft=true
+
+# Audio player
+releaseaudio="hej.mp3"
+
+# Catalogue text
+releasecattext = "Slow piano pieces recorded in an apartment with the window open."
+
+# Metadata
+metadata = [
+    "Label: My Awesome Label",
+    "Genre: Electronic",
+    "Release Date: 2022-01-01"
+]
+# Credits
+credits = [
+    "Artist: John Doe",
+    "Producer: Jane Doe",
+    "Mastering: XYZ Studio"
+]
+
+# Tracks
+tracklist = [
+    "Track 1: My Awesome Song",
+    "Track 2: Another Awesome Song",
+    "Track 3: Yet Another Awesome Song"
+]
+
++++
