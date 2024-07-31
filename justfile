@@ -19,4 +19,4 @@ publish: build
     cd "{{DEST_DIR}}" && git add --all && git commit -m "autocommit $(date)" && git pull && git push
 
 serve:
-    hugo server --verbose --logLevel info --buildDrafts
+    hugo server --minify=true --cleanDestinationDir --verbose --logLevel info --gc --buildDrafts
