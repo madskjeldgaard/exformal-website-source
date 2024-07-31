@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 
 title = "Mads Kjeldgaard"
 artistname = "Mads Kjeldgaard"
@@ -18,3 +18,5 @@ url = "https://madskjeldgaard.dk"
 
 +++
   
+{{< imgh src="/artists/madskjeldgaard-tucson.jpg" alt="Mads Kjeldgaard" >}}
+
