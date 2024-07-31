@@ -79,7 +79,6 @@ Satie [coined the term _furniture music_](http://www.slashseconds.org/issues/001
 
 {{< imgh src="photos/Mads Kjeldgaard - California Window 2024.jpg" alt="Window in California" >}}  
 
-{{< imgh src="photos/Mads Kjeldgaard - Arizona Window 2024.jpg" alt="Window in Arizona" caption="Windows in California and Arizona 2024 by Mads Kjeldgaard." >}}
 
 ## Hearing the chorus
 
@@ -98,7 +97,7 @@ The remnants of the last note ring out in the instrument’s iron frame. I find 
 
 The practice of chi gong commends the ideal of the crane: standing still by a lake, always ready to snap a fish in its beak. It’s not asleep, it’s not moving, it’s actively relaxed and fully aware of its surroundings. By the piano, in between notes, I become a crane myself, perceiving the sounds of my surroundings. I feel the wind rustling in my feathers, and I observe the creases in the water surface from the thick, slow raindrops, smeared out by the rolling caresses of the air that just passed me by.
 
-{{< imgh src="photos/Mads Kjeldgaard - Piano mic detail (Silence In Between).jpg" alt="Piano frame with microphone on it" caption="Microphone placement: Attached directly to the steel frame of the piano. Photo: Mads Kjeldgaard." >}}
+{{< imgh src="photos/Mads Kjeldgaard - Arizona Window 2024.jpg" alt="Window in Arizona" caption="Windows in California and Arizona 2024 by Mads Kjeldgaard." >}}
 
 Eventually, this slow approach becomes a new artistic practice for me. I place microphones on the iron frame of the piano to come closer to the strings as they are struck by the hammers, this allows me to hear the reverberation, the shimmering klang of the material at hand. I record it all using loopers running at different speeds and long durations, to be able to relisten to what I heard before but from the perspective of another point in time.
 
