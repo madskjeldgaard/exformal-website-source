@@ -6,23 +6,29 @@ theme = 'exformal'
 [[menu.main]]
 name = "releases"
 url = "/releases"
-weight = 3
+weight = 1
 
 [[menu.main]]
 name = "shop"
 url = "https://exformalrecords.bandcamp.com/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "about"
 url = "/about"
-weight = 2
+weight = 3
+
+[[menu.main]]
+name = "newsletter"
+url = "/newsletter"
+weight = 4
+
 
 # Site parameters
 [params]
 description = "Exformal Records is a record label."
 keywords="diy record label, record label, experimental music, avantgarde music, art"
-featuredPostTitle = 'Newsletter'
+featuredPostTitle = ''
 logo = 'logos/exformal-logo1.png'
 
 # Colors
