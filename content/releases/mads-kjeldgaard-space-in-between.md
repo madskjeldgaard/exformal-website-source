@@ -75,7 +75,7 @@ I approach it like a child: pressing the keys as if for the first time, absorbin
 
 I started playing Satie’s Gymnopédies on the piano. This happened in a period of intense creative drought. I had nothing else to do, musically, because none of my usual creative outlets interested me. Apropos Satie, he [coined the term _furniture music_](http://www.slashseconds.org/issues/001/001/articles/11_psuchin/index.php): “a music which is like furniture - a music, that is, which will be part of the noises of the environment, will take them into consideration. I think of it as melodious, softening the noises of the knives and forks at dinner, not dominating them, not imposing itself. It would fill up those heavy silences that sometime fall between friends dining together.”
 
-{{< imgh src="photos/Mads Kjeldgaard - California Window 2024.jpg" alt="Window in California" >}}  
+{{< imgh src="photos/Mads Kjeldgaard - California Window 2024.jpg" alt="Window in California" caption="Window in California 2024. By Mads Kjeldgaard. ">}}  
 
 
 ## Hearing the chorus

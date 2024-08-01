@@ -9,7 +9,7 @@ artistphotocredit = ""
 date = "2024-05-14"
 
 [[links]]
-title = "Website of Mads Kjeldgaard"
+title = "madskjeldgaard.dk"
 url = "https://madskjeldgaard.dk"
 
 # [[links]]
@@ -18,5 +18,5 @@ url = "https://madskjeldgaard.dk"
 
 +++
   
-{{< imgh src="/artists/madskjeldgaard-tucson.jpg" alt="Mads Kjeldgaard" >}}
+{{< imgh src="/artists/madskjeldgaard-tucson.jpg" alt="Mads Kjeldgaard" link="https://madskjeldgaard.dk" caption="Self portrait of the artist. Mads Kjeldgaard 2024.">}}
 
