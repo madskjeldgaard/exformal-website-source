@@ -26,10 +26,11 @@ weight = 4
 
 # Site parameters
 [params]
-description = "Exformal Records is a record label."
+description = "How slow can you go?"
 keywords="diy record label, record label, experimental music, avantgarde music, art"
 featuredPostTitle = ''
 logo = 'logos/exformal-logo1.png'
+defaultImage = 'logos/exformal-logo1.png'
 
 # Colors
 primaryColor = "#FF1818"

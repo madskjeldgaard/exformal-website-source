@@ -102,5 +102,3 @@ Eventually, this slow approach becomes a new artistic practice for me. I place m
 Every day, after my morning routines, I guide myself to the piano as if I was a waiter showing a guest to their seat. Once properly placed, I turn my attention to the sounds that leak from the open window in between the notes – I notice the banality of it, and I love it: bird feet rustling in the rain gutter above the window, it’s the neighborhood’s magpies scheming again. Tap-tap-tap. Tap-tap. Tap.
 
 – Mads Kjeldgaard, Nørrebro, København, 2024
-
-{{< youtube caWRBfYeRKc >}}
