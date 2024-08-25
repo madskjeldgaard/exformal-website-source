@@ -6,14 +6,14 @@ subTitle = ""
 draft = false
 +++
 
-> "This is the realm the exformal: the site where border negotiations unfold between what is rejected and what is admitted, products and waste."
-> – [**The Exform**](https://www.versobooks.com/products/192-the-exform).
+Exformal Records is an anti-accelerationist platform promoting patient listening practices.
 
+To stay up to date, sign up to our newsletter:
 
-Contact info:
+{{< mailinglist >}}
+
+### Contact 
 
 {{< cloakemail "hi@exformal.art" >}} 
 
-Ps. expect SLOW response if any and also, no demos, sorry.
-
-
+Ps. expect SLOW response if any and, also, no demos please, sorry.
