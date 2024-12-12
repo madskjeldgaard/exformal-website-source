@@ -13,10 +13,10 @@ remove_macos_files:
   find . -name '.DS_Store' -type f -delete
 
 build: remove_macos_files
-  hugo --minify=true --cleanDestinationDir --verbose --logLevel info --destination "{{DEST_DIR}}"
+  hugo --minify=true --cleanDestinationDir --logLevel info --destination "{{DEST_DIR}}"
 
 publish: build
     cd "{{DEST_DIR}}" && git add --all && git commit -m "autocommit $(date)" && git pull && git push
 
 serve:
-    hugo server --minify=true --cleanDestinationDir --verbose --logLevel info --gc --buildDrafts
+    hugo server --minify=true --cleanDestinationDir --logLevel info --gc --buildDrafts
