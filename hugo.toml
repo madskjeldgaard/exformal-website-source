@@ -1,7 +1,8 @@
 baseURL = 'https://exformal.art'
 languageCode = 'en-us'
 title = 'Exformal Records'
-theme = 'exformal'
+theme  = [ "exformal", "hugo-audio"]
+
 
 [[menu.main]]
 name = "releases"

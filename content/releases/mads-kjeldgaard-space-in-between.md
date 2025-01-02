@@ -1,6 +1,7 @@
 +++
 title = "Space In Between"
 draft=false
+categories = ["CD-R", "Digital"]
 
 # Images
 releasecover = "/images/covers/thespaceinbetween.png"
@@ -11,7 +12,6 @@ altcover = "/images/photos/Mads Kjeldgaard - Arizona Window 2024.jpg"
 # altcover = "/images/photos/Mads Kjeldgaard - California Window 2024.jpg"
 
 # Release basics
-releasetitle = "Space In Between"
 releaseartist = "Mads Kjeldgaard"
 releaseyear = "2024"
 releaseformat = "CD-R/Digital/Video"
@@ -24,8 +24,8 @@ date = "2024-05-11"
 
 # Audio player
 # TODO:
-releaseaudio="/sound/04 - Mads Kjeldgaard - 15_15 PM (Excerpt) (EX001).mp3"
-releaseaudiotitle="15:15 PM (Excerpt)"
+audiopath="/sound/04 - Mads Kjeldgaard - 15_15 PM (Excerpt) (EX001).mp3"
+audiotitle="15:15 PM (Excerpt)"
 
 # -------------- METADATA ----------------------
 
