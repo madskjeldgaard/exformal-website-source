@@ -1,7 +1,7 @@
 baseURL = 'https://exformal.art'
 languageCode = 'en-us'
 title = 'Exformal Records'
-theme  = [ "exformal", "hugo-audio", "hugo-flickity-carousel"]
+theme  = [ "exformal", "hugo-audio", "hugo-flickity-carousel", "hugo-art-support"]
 
 
 [[menu.main]]

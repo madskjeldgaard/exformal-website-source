@@ -8,8 +8,8 @@ artistphoto = "/images/artists/madskjeldgaard-tucson.jpg"
 artistphotocredit = ""
 date = "2024-05-14"
 
-[[links]]
-title = "madskjeldgaard.dk"
+[[additionalLinks]]
+name = "madskjeldgaard.dk"
 url = "https://madskjeldgaard.dk"
 
 # [[links]]

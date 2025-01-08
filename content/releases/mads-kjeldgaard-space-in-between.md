@@ -25,7 +25,7 @@ date = "2024-05-11"
 # Audio player
 # TODO:
 audiopath="/sound/04 - Mads Kjeldgaard - 15_15 PM (Excerpt) (EX001).mp3"
-audiotitle="15:15 PM (Excerpt)"
+audiotitle="Mads Kjeldgaard – 15:15 PM (Excerpt)"
 
 # -------------- METADATA ----------------------
 
