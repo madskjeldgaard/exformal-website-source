@@ -71,8 +71,7 @@ url = "https://andersvestergaard.org/"
 
 # This world between the lines
 
-### *The following conversation between Johanna Borchert, Anders Vestergaard and Mads Kjeldgaard took place in the apartment of Johanna Borchert in the early part of the year 2025. A child with a cold was present. We talked about the collaboration between Borchert and Vestergaard to add perspective to this, their first release together as a duo. The conversation was short, but uplifting and adds even more depth to their fantastic project. At the conclusion, we went to the hallway to put on our winter coats and leave, but before could get back into the windy afternoon of Nørrebro, the child with the cold approached us suddenly and sang 'O Tannenbaum' in German. I hope you will enjoy the conversation. MK.*
-
+### *The following conversation between Johanna Borchert, Anders Vestergaard, and Mads Kjeldgaard took place in Johanna Borchert's apartment in the early part of 2025. A child with a cold was present. We talked about the collaboration between Borchert and Vestergaard to add perspective to this, their first release together as a duo. The conversation was short, but uplifting and added even more depth to their fantastic project. At the conclusion, we went to the hallway to put on our winter coats and leave, but before we could get back into the windy afternoon of Nørrebro, the child with the cold approached us suddenly and sang ‘O Tannenbaum’ in German. I hope you will enjoy the conversation. MK.*
 
 # -
 

@@ -7,3 +7,6 @@
 [submodule "themes/hugo-flickity-carousel"]
 	path = themes/hugo-flickity-carousel
 	url = git@github.com:madskjeldgaard/hugo-flickity-carousel.git
+[submodule "public"]
+	path = public
+	url = git@github.com:madskjeldgaard/exformal-website-public.git
