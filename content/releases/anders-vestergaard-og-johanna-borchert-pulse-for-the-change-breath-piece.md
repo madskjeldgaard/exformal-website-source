@@ -59,12 +59,17 @@ tracklist = [
 
 # Buttons
 [[additionalLinks]]
+name = "Release concert Jan 30th"
+url = "https://www.koncertkirken.dk/events/vinterjazz-koncertkirken-2025/"
+
+[[additionalLinks]]
 name = "Johanna Borchert"
 url = "http://johannaborchert.de/"
 
 [[additionalLinks]]
 name = "Anders Vestergaard"
 url = "https://andersvestergaard.org/"
+
 
 +++
 
