@@ -87,7 +87,7 @@ AV: Well, I’ve made a series of solo albums. I’ve made three, and two of the
 
 #### Interviewer: And these are a kind of exercise, right?
 
-AV: Yeah, in a way they are kind of exercises, and then it became that I play concerts with it.
+AV: Yeah, in a way they are kind of exercises, and then I happened to play concerts with it.
 
 #### Interviewer: Can you try to give an example of some of these exercises?
 
