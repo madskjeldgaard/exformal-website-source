@@ -4,4 +4,4 @@ date: 2022-01-01T00:00:00-00:00
 draft: false
 ---
 
-{{< imgh src="photos/Mads Kjeldgaard - Piano mic detail.jpg" alt="Piano frame with microphone on it" link="/releases">}}
+{{< video src="ex002teaser.mp4" height="110%" width="100%" loop="true" autoplay="true" muted="true">}}
