@@ -5,7 +5,7 @@ showTitle = true
 draft = false
 +++
 
-Exformal Records is a Copenhagen, Denmark-based platform for experimental music, sounds and listening practices.
+Exformal Records is a platform for experimental music, sounds and listening practices.
 
 No demos, sorry, and also: Expect a very slow response time.
 

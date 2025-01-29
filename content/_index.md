@@ -5,3 +5,10 @@ draft: false
 ---
 
 {{< video src="ex002teaser.mp4" height="110%" width="100%" loop="true" autoplay="true" muted="true">}}
+
+
+{{< centeredtext >}}
+Exformal Records is a platform for experimental music, sounds and listening practices.
+{{< /centeredtext >}}
+
+# ◐ ∞ ◑ 
