@@ -9,7 +9,7 @@ categories = ["Tea", "Digital"]
 
 # Release basics
 releaseartist = "Mads Kjeldgaard"
-releaseyear = "2024"
+releaseyear = "2025"
 releaseformat = "Tea & Digital"
 
 releasecatnum = "EX003"
@@ -34,7 +34,7 @@ releasecattext = "12 hours, 15 minutes and 7 seconds of minimalist background mu
 metadata = [
     "Artist: Mads Kjeldgaard",
     "Title: Empty Cloud",
-    "Release date: 16-2-2025",
+    "Release date: 1-3-2025",
     "Physical release format: Tea with download code",
     "Digital format: 96khz FLAC 24bit",
     "Catalogue number: EX003",
