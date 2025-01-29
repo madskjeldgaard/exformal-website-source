@@ -1,29 +1,32 @@
 baseURL = 'https://exformal.art'
 languageCode = 'en-us'
 title = 'Exformal Records'
-theme  = [ "exformal", "hugo-audio", "hugo-flickity-carousel", "hugo-art-support"]
+theme  = ["hugo-video", "exformal", "hugo-audio", "hugo-flickity-carousel", "hugo-art-support"]
 
+[[menu.main]]
+name = "zones"
+url = "/zones"
+weight = 1
 
 [[menu.main]]
 name = "releases"
 url = "/releases"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "shop"
 url = "https://exformalrecords.bandcamp.com/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "about"
 url = "/about"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "newsletter"
 url = "/newsletter"
-weight = 4
-
+weight = 5
 
 # Site parameters
 [params]

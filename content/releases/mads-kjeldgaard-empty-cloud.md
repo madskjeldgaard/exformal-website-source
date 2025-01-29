@@ -1,10 +1,10 @@
 +++
 title = "Empty Cloud"
-draft = true
+draft = false
 
 # Images
 releasecover = "/images/covers/emptycloud.png"
-altcover = "/images/photos/birdscali.jpg"
+#altcover = "/images/photos/birdscali.jpg"
 categories = ["Tea", "Digital"]
 
 # Release basics
@@ -28,13 +28,13 @@ audiotitle="Mads Kjeldgaard – Empty Cloud Part 8"
 releaseabout = "An enormous cycle of minimalist, ambient background music composed in 48 parts, spanning 12 hours, taking you on a peaceful stroll around the circle of fifths."
 
 # Catalogue text (1-2 lines)
-releasecattext = "An enormous cycle of minimalist background music, ready to serve as sonic tapestry."
+releasecattext = "12 hours, 15 minutes and 7 seconds of minimalist background music. And a bag of tea."
 
 # Metadata
 metadata = [
     "Artist: Mads Kjeldgaard",
     "Title: Empty Cloud",
-    "Release date: 01-12-2024",
+    "Release date: 16-2-2025",
     "Physical release format: Tea with download code",
     "Digital format: 96khz FLAC 24bit",
     "Catalogue number: EX003",
@@ -46,6 +46,7 @@ credits = [
     "Text and liner notes: Mads Kjeldgaard",
     "Recorded at: Sound Art Lab",
     "Supported by: Sound Art Lab in Struer, Denmark, Koda Kultur and the Danish Composers Society.",
+    "Design: Mads Kjeldgaard",
     "Tea import: io",
     "Thanks: 加茂自然農園, io, Simon & Yukiko, everyone at Struer Sound Art Lab."
 ]
@@ -110,25 +111,24 @@ tracklist = [
 
 +++
 
-The music of *Empty Cloud* was written and composed specifically to be played in the background in a room, quietly. It’s not music with a large ego that wants to impress you – it does not need to be the center of attention. The ideal listening situation is at a barely audible volume in a room where something else takes place. It’s music that’s just there, plain and simple.
+The music of *Empty Cloud* was written and composed specifically to be played in the background in a room, quietly, or at least ideally at a barely audible volume. It’s music that’s just there, plain and simple, and if you forget about it, it's fine, don't worry, it will let itself be known when it needs to.
 
-The large-scale 12-hour structure of the piece is broken down into smaller 1-hour cycles with 4 parts in each of them. *Empty Cloud* was partly inspired by the work of Taku Sugimoto, a Japanese guitarist and composer known for creating slow, beautiful melodies. Sugimoto has a masterful way of making scarce melodic landscapes that I find fascinating and peaceful.
-
-At the same time, I have been reading a lot of music theory by Arnold Schoenberg. This gave me the tools to understand the seemingly simple inner workings of melodies and harmonies in the music I like.
+The large-scale 12-hour structure of the release is broken down into smaller one-hour cycles with four parts in each of them, each composed of minimalist melodies pacing slowly through time at a sloth-like tempo. With everything constrained to different pentatonic scales (changing between each part of the release), a certain aimlessness ensures that the direction of the wandering notes is one of no direction at all — circular or maze-like even.
 
 {{< imgh src="photos/birdscali.jpg" alt="Birds in sky in California" caption="Birds in between clouds in Southern California, 2024. Photo: Mads Kjeldgaard." >}}
 
-I set about transcribing some of the melodies I like on pieces of sheet music paper, then I had a look at the intervals, and the distance between the notes, and counted them. At the end of it, I had a sort of statistical data – I could count the prevalence of certain melodic jumps by their size, and from that figure out the probability of each of these. The end result of this is a sort of recipe with a certain dosage of seconds, thirds, and fifths, etcetera. 
+Amid long stretches of silence, notes appear almost as if an anomaly. There is a breaking point in these spacings between notes – if the notes come one after the other, they naturally sound as if belonging together. If there is a large space between two such clusters, they will appear as two different melodies. These melodies trace out a shape. Now, this shape is easy to imagine – and we probably do so automatically – when the notes in the melodies are close to one another, but what happens if we stretch them out so that they reach a breaking point where the listener does not have a chance of keeping track of the shape, simply because the time between each event is so large? Does it even matter? 
 
-What Schoenberg does not teach us, though, is silence – or the distance in timing between notes. There is a breaking point in the spacing between notes – if the notes come one after the other, they naturally sound as if belonging together. If there is a large space between two such clusters, they will appear as two different melodies. These melodies trace out a shape. Now, this shape is easy to imagine – and we probably do so automatically – when the notes in the melodies are close to one another, but what happens if we stretch them out so that they reach a breaking point where the listener does not have a chance of keeping track of the shape? 
-
-This is what I’ve tried to do in *Empty Cloud*: Reach that breaking point and see what happens.
-
-## The Everything Tea
-
-In the tradition of zen, tea is drunk to "chase away the sleep demons" during long stretches of meditation. As such, *Empty Cloud* is not only released digitally as audio files but also as a limited edition physical release in the form of a bag of tea that may help the listener stay sharp throughout the cycle of the music. The tea itself is a so-called *zenbucha* (全部茶 meaning "everything tea") from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. This type of tea consists of leaves from the farm's tea plants but also includes the weeds surrounding these, seen here as part of a whole. The tea was kindly imported by [io](https://www.io-te.dk/).
+Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking point, stay there for a long time, and see what happens. Maybe nothing happens, and maybe that's a good thing.
 
 – Mads Kjeldgaard, Taastrup, Denmark, 2025
+
+# ⁂
+
+### About the release
+
+*Empty Cloud* is released digitally as high quality audio files and streaming, as well as a limited edition physical release in the form of a bag of tea that may help the listener stay sharp throughout the cycle of the music. The tea itself is a so-called *zenbucha* (全部茶 meaning "everything tea") from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. This type of tea consists of leaves from the farm's tea plants but also includes the weeds surrounding these, seen here as part of a whole. The tea was kindly imported by [io](https://www.io-te.dk/).
+
 
 ### Supported by
 

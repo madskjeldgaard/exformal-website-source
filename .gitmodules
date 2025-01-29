@@ -10,3 +10,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:madskjeldgaard/exformal-website-public.git
+[submodule "themes/hugo-video"]
+	path = themes/hugo-video
+	url = https://github.com/martignoni/hugo-video.git
