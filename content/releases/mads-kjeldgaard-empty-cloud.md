@@ -105,9 +105,9 @@ tracklist = [
 ]
 
 # Buttons
-# [[additionalLinks]]
-# name = ""
-# url = ""
+[[additionalLinks]]
+name = "video"
+url = "https://www.youtube.com/watch?v=VOCw9u5hhSg"
 
 +++
 
