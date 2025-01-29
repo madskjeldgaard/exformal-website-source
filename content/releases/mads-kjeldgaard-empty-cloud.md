@@ -4,7 +4,7 @@ draft = false
 
 # Images
 releasecover = "/images/covers/emptycloud.png"
-#altcover = "/images/photos/birdscali.jpg"
+altcover = "/images/photos/birdscali.jpg"
 categories = ["Tea", "Digital"]
 
 # Release basics
