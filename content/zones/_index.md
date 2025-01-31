@@ -8,5 +8,4 @@ draft = false
 
 {{< video src="Exformal Zones Intro.webm" height="110%" width="100%" loop="true" autoplay="true" muted="true">}}
 
-
 Coming soon.
