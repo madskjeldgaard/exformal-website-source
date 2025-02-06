@@ -4,7 +4,7 @@ date: 2022-01-01T00:00:00-00:00
 draft: false
 ---
 
-# Under the pavement, the beach.
+# Beneath the pavement, the beach.
  
 {{< video src="ex002teaser.mp4" height="110%" width="100%" loop="true" autoplay="true" muted="true">}}
 
