@@ -18,16 +18,6 @@ name = "shop"
 url = "https://exformalrecords.bandcamp.com/"
 weight = 3
 
-[[menu.main]]
-name = "about"
-url = "/about"
-weight = 4
-
-[[menu.main]]
-name = "newsletter"
-url = "/newsletter"
-weight = 5
-
 # Site parameters
 [params]
 description = "Under the pavement, the beach."
@@ -35,6 +25,7 @@ keywords="diy record label, record label, experimental music, avantgarde music, 
 featuredPostTitle = ''
 logo = 'logos/exformal-logo1.png'
 defaultImage = 'logos/exformal-logo1.png'
+footerText = "Exformal Records is a platform for experimental music, sounds and listening practices."
 
 # Colors
 primaryColor = "#FF1818"
