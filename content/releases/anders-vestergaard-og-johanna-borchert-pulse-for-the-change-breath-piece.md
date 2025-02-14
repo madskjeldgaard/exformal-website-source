@@ -4,7 +4,7 @@ draft = false
 categories = ["CD-R", "Digital"]
 
 # Images
-releasecover = "/images/covers/pulseforthechange.png"
+images = "/images/covers/pulseforthechange.png"
 altcover = "/images/photos/Mads Kjeldgaard - Piano mic detail.jpg"
 
 # Release basics
@@ -25,7 +25,7 @@ audiotitle="Johanna Borchert & Anders Vestergaard - Excerpt"
 # -------------- METADATA ----------------------
 
 # About the release (short text, a few paragraphs)
-releaseabout = "A hypnotic collaboration between pianist Johanna Borchert and drummer Anders Vestergaard on a trance-like quest into the inner spiritual workings of music itself."
+description = "A hypnotic collaboration between pianist Johanna Borchert and drummer Anders Vestergaard on a trance-like quest into the inner spiritual workings of music itself."
 
 # Catalogue text (1-2 lines)
 releasecattext = "Trancy drums and prepared piano improvisations from two of Copenhagen's finest instrumentalists."

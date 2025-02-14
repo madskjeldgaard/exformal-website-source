@@ -1,4 +1,4 @@
-baseURL = 'https://exformal.art'
+baseURL = 'https://exformal.art/'
 languageCode = 'en-us'
 title = 'Exformal Records'
 theme  = ["hugo-video", "exformal", "hugo-audio", "hugo-flickity-carousel", "hugo-art-support"]
@@ -24,7 +24,7 @@ description = "Beneath the pavement, the beach."
 keywords="diy record label, record label, experimental music, avantgarde music, ambient, field recording, art"
 featuredPostTitle = ''
 logo = 'logos/exformal-logo1.png'
-defaultImage = 'logos/exformal-logo1.png'
+defaultImage = '/logos/exformal-logo1.png'
 footerText = "Exformal Records is a platform for experimental music, sounds and listening practices."
 
 # Colors

@@ -3,7 +3,7 @@ title = "Empty Cloud"
 draft = false
 
 # Images
-releasecover = "/images/covers/emptycloud.png"
+images = "/images/covers/emptycloud.png"
 altcover = "/images/photos/birdscali.jpg"
 categories = ["Tea", "Digital"]
 
@@ -25,7 +25,7 @@ audiotitle="Mads Kjeldgaard – Empty Cloud Part 8"
 # -------------- METADATA ----------------------
 
 # About the release (short text, a few paragraphs)
-releaseabout = "An enormous cycle of minimalist, ambient background music composed in 48 parts, spanning 12 hours, taking you on a peaceful stroll around the circle of fifths."
+description = "An enormous cycle of minimalist, ambient background music composed in 48 parts, spanning 12 hours, taking you on a peaceful stroll around the circle of fifths."
 
 # Catalogue text (1-2 lines)
 releasecattext = "12 hours, 15 minutes and 7 seconds of minimalist background music. And a bag of tea."

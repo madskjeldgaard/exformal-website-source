@@ -4,8 +4,8 @@ draft=false
 categories = ["CD-R", "Digital"]
 
 # Images
-releasecover = "/images/covers/thespaceinbetween.png"
-# releasecover = "/images/products/ex001/ex001_test2.jpg"
+images = "/images/covers/thespaceinbetween.png"
+# images = "/images/products/ex001/ex001_test2.jpg"
 # altcover = "/images/covers/defaults/default3.png"
 # altcover = "/images/releases/ex001/pianomic2.jpg"
 altcover = "/images/photos/Mads Kjeldgaard - Arizona Window 2024.jpg"
@@ -30,7 +30,7 @@ audiotitle="Mads Kjeldgaard – 15:15 PM (Excerpt)"
 # -------------- METADATA ----------------------
 
 # About the release (short text, a few paragraphs)
-releaseabout = "'Space In Between' is a collection of slow solo pieces for piano and loopers, composed and played by Mads Kjeldgaard in his apartment. The pieces were recorded with the window open, to allow the street sounds to mix with those of the piano."
+description = "'Space In Between' is a collection of slow solo pieces for piano and loopers, composed and played by Mads Kjeldgaard in his apartment. The pieces were recorded with the window open, to allow the street sounds to mix with those of the piano."
 
 
 # Catalogue text (1-2 lines)
