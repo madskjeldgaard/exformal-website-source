@@ -113,11 +113,14 @@ url = "https://www.youtube.com/watch?v=VOCw9u5hhSg"
 
 The music of *Empty Cloud* was written and composed specifically to be played in the background in a room, quietly, or at least ideally at a barely audible volume. It’s music that’s just there, plain and simple, and if you forget about it, it's fine, don't worry, it will let itself be known when it needs to.
 
+{{< simpleaudioplayer url="/sound/01 - Mads Kjeldgaard – Empty Cloud – Part 01.mp3" title="Mads Kjeldgaard – Empty Cloud Part 01">}}
+
 The large-scale 12-hour structure of the release is broken down into smaller one-hour cycles with four parts in each of them, each composed of minimalist melodies pacing slowly through time at a sloth-like tempo. With everything constrained to different pentatonic scales (changing between each part of the release), a certain aimlessness ensures that the direction of the wandering notes is one of no direction at all — circular or maze-like even.
 
 {{< imgh src="photos/birdscali.jpg" alt="Birds in sky in California" caption="Birds in between clouds in Southern California, 2024. Photo: Mads Kjeldgaard." >}}
 
 Amid long stretches of silence, notes appear almost as if an anomaly. There is a breaking point in these spacings between notes – if the notes come one after the other, they naturally sound as if belonging together. If there is a large space between two such clusters, they will appear as two different melodies. These melodies trace out a shape. Now, this shape is easy to imagine – and we probably do so automatically – when the notes in the melodies are close to one another, but what happens if we stretch them out so that they reach a breaking point where the listener does not have a chance of keeping track of the shape, simply because the time between each event is so large? Does it even matter? 
+
 
 Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking point, stay there for a long time, and see what happens. Maybe nothing happens, and maybe that's a good thing.
 
@@ -128,6 +131,7 @@ Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking poin
 ## And a bag of tea
 
 *Empty Cloud* is released digitally as high quality audio files and streaming, as well as a limited edition physical release in the form of a bag of tea that may help the listener stay sharp throughout the cycle of the music. 
+
 
 This bag of tea may help you, the listener, stay sharp throughout the 12-hour cycle of music that is Empty Cloud. It is a zenbucha (全部茶, meaning “everything tea”) from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. 
 
