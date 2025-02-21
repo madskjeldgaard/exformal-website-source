@@ -123,14 +123,15 @@ Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking poin
 
 – Mads Kjeldgaard, Taastrup, Denmark, 2025
 
-# ⁂
+{{< imgh src="products/ex003/Emptycloud-tea-DSCF9074.jpg" alt="Tea bags." caption="" >}}
 
 ## And a bag of tea
-
 
 *Empty Cloud* is released digitally as high quality audio files and streaming, as well as a limited edition physical release in the form of a bag of tea that may help the listener stay sharp throughout the cycle of the music. 
 
 This bag of tea may help you, the listener, stay sharp throughout the 12-hour cycle of music that is Empty Cloud. It is a zenbucha (全部茶, meaning “everything tea”) from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. 
+
+{{< imgh src="products/ex003/Emptycloud-tea-DSCF9046.jpg" alt="Tea bags." caption="" >}}
 
 It consists of tea leaves from the farm’s tea plants, as well as the weeds surrounding them. Included in the bag is a download code for all 12 hours of Empty Cloud. 
 
