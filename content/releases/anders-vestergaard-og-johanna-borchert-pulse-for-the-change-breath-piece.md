@@ -5,7 +5,7 @@ categories = ["CD-R", "Digital"]
 
 # Images
 images = "/images/covers/pulseforthechange.png"
-altcover = "/images/photos/Mads Kjeldgaard - Piano mic detail.jpg"
+altcover = "/images/photos/AndersOgJohannaLive-8370.jpg"
 
 # Release basics
 releaseartist = "Johanna Borchert and Anders Vestergaard"
@@ -104,6 +104,7 @@ AV: Yeah, and the meter becomes unclear. A lot of the constraints you usually he
 
 JB: It’s not like you play 8 bars and feel like the form is finished.
 
+{{< imgh src="/photos/AndersOgJohannaLive-8370.jpg" caption="Johanna's prepared piano at a concert with the duo. Photo: Mads Kjeldgaard 2025.">}}
 
 #### Interviewer: So there isn’t a predetermined cycle?
 

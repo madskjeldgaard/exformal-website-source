@@ -125,10 +125,16 @@ Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking poin
 
 # ⁂
 
-### About the release
+## And a bag of tea
 
 
-*Empty Cloud* is released digitally as high quality audio files and streaming, as well as a limited edition physical release in the form of a bag of tea that may help the listener stay sharp throughout the cycle of the music. The tea itself is a so-called *zenbucha* (全部茶 meaning "everything tea") from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. This type of tea consists of leaves from the farm's tea plants but also includes the weeds surrounding these, seen here as part of a whole. The tea was kindly imported by [io](https://www.io-te.dk/).
+*Empty Cloud* is released digitally as high quality audio files and streaming, as well as a limited edition physical release in the form of a bag of tea that may help the listener stay sharp throughout the cycle of the music. 
+
+This bag of tea may help you, the listener, stay sharp throughout the 12-hour cycle of music that is Empty Cloud. It is a zenbucha (全部茶, meaning “everything tea”) from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. 
+
+It consists of tea leaves from the farm’s tea plants, as well as the weeds surrounding them. Included in the bag is a download code for all 12 hours of Empty Cloud. 
+
+The tea was kindly imported by [io](https://www.io-te.dk). Music released by Exformal Records in 2025.
 
 **Release party:** 5.30 pm on the 26th of February, 2025 at [io](https://www.io-te.dk) in Blågårdsgade, Copenhagen, Denmark.
 
