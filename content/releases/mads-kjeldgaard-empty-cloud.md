@@ -115,7 +115,7 @@ The music of *Empty Cloud* was written and composed specifically to be played in
 
 {{< simpleaudioplayer url="/sound/01 - Mads Kjeldgaard – Empty Cloud – Part 01.mp3" title="Mads Kjeldgaard – Empty Cloud Part 01">}}
 
-The large-scale 12-hour structure of the release is broken down into smaller one-hour cycles with four parts in each of them, each composed of minimalist melodies pacing slowly through time at a sloth-like tempo. With everything constrained to different pentatonic scales (changing between each part of the release), a certain aimlessness ensures that the direction of the wandering notes is one of no direction at all — circular or maze-like even.
+The large-scale 12-hour structure of the piece is broken down into smaller one-hour cycles with four parts in each of them, each composed of minimalist melodies pacing slowly through time at a sloth-like tempo. With everything constrained to different pentatonic scales (changing between each part of the piece), a certain aimlessness ensures that the direction of the wandering notes is one of no direction at all — circular or maze-like even.
 
 {{< imgh src="photos/birdscali.jpg" alt="Birds in sky in California" caption="Birds in between clouds in Southern California, 2024. Photo: Mads Kjeldgaard." >}}
 
@@ -126,7 +126,7 @@ Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking poin
 
 – Mads Kjeldgaard, Taastrup, Denmark, 2025
 
-{{< imgh src="products/ex003/Emptycloud-tea-DSCF9074.jpg" alt="Tea bags." caption="" >}}
+{{< imgh src="products/ex003/EmptyCloud-Tea-F9099.jpg" alt="Tea bags." caption="The physical release of Empty Cloud – a bag of Japanese tea with a download code for all 12 hours of the piece inside." >}}
 
 ## And a bag of tea
 
@@ -135,13 +135,15 @@ Well, this is what I’ve tried to do in *Empty Cloud*: Reach that breaking poin
 
 This bag of tea may help you, the listener, stay sharp throughout the 12-hour cycle of music that is Empty Cloud. It is a zenbucha (全部茶, meaning “everything tea”) from the Japanese tea farm Kamo Shizen Nōen in Kamo, Kyoto, Japan. 
 
-{{< imgh src="products/ex003/Emptycloud-tea-DSCF9046.jpg" alt="Tea bags." caption="" >}}
+{{< imgh src="products/ex003/EmptyCloud-Tea-F9103.jpg" alt="Tea bags." caption="" >}}
 
 It consists of tea leaves from the farm’s tea plants, as well as the weeds surrounding them. Included in the bag is a download code for all 12 hours of Empty Cloud. 
 
 The tea was kindly imported by [io](https://www.io-te.dk). Music released by Exformal Records in 2025.
 
 **Release party:** 5.30 pm on the 26th of February, 2025 at [io](https://www.io-te.dk) in Blågårdsgade, Copenhagen, Denmark.
+
+{{< imgh src="products/ex003/EmptyCloud-Tea-F9111.jpg" alt="Tea bags." caption="Zenbucha." >}}
 
 ### Supported by
 

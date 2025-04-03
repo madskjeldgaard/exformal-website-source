@@ -3,7 +3,7 @@ draft=true
 
 title = "Mads Kjeldgaard"
 artistname = "Mads Kjeldgaard"
-description = "A music composer."
+description = "A music composer and sound artist."
 artistphoto = "/images/artists/madskjeldgaard-tucson.jpg"
 artistphotocredit = ""
 date = "2024-05-14"
