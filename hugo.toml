@@ -14,9 +14,19 @@ url = "/releases"
 weight = 2
 
 [[menu.main]]
+name = "artists"
+url = "/artists"
+weight = 3
+
+[[menu.main]]
 name = "shop"
 url = "https://exformalrecords.bandcamp.com/"
-weight = 3
+weight = 4
+
+[[menu.main]]
+name = "contact"
+url = "/contact"
+weight = 5
 
 # Site parameters
 [params]

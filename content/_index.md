@@ -2,17 +2,20 @@
 title: "Home"
 date: 2022-01-01T00:00:00-00:00
 draft: false
+carousel_images:
+  - src: "/staticcovers/empty-cloud.jpg"
+    alt: "Image 1"
+    link: "/releases"
+  - src: "/DSCF8032.jpg"
+    alt: "Image 2"
+  - src: "/DSCF8033.jpg"
+    alt: "Image 3"
 ---
 
-# Beneath the pavement, the beach.
+# Exformal Records
  
-{{< video src="ex002teaser.mp4" height="110%" width="100%" loop="true" autoplay="true" muted="true">}}
-
 {{< centeredtext >}}
-Exformal Records is a platform for experimental music, sounds and listening practices. 
-<br>
-<br>
-Contact:{{< cloakemail "hi@exformal.art" >}} (no demos, sorry).
+<h4><i>A platform for experimental music, sounds and listening practices.</i></h4>
 {{< /centeredtext >}}
 
-# ◐ ∞ ◑ 
+# ~ ~ ~
