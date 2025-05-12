@@ -5,7 +5,7 @@ description = """Transdisciplinary artist Bella Comsom explores sound and its ph
 artistphoto = "/images/artists/Bella Comsom - Analog Photo by Esteban Ferro - BELLA COMSOM.jpg"
 artistphotocredit = "Esteban Ferro"
 date = "2025-04-03"
-draft=true
+draft=false
 
 [[additionalLinks]]
 name = "bellacomsom.com"

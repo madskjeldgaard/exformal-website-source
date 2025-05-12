@@ -10,6 +10,7 @@ altcover = "/images/photos/AndersOgJohannaLive-8370.jpg"
 # Release basics
 releaseartist = "Johanna Borchert and Anders Vestergaard"
 releaseyear = "2025"
+releasedate = "30-01-2025"
 releaseformat = "CD-R"
 
 releasecatnum = "EX002"

@@ -1,6 +1,6 @@
 +++
 title = "As Far as the Sea Can Reach"
-draft=false
+draft=true
 
 categories = ["Digital"]
 series = "Zone"
@@ -12,6 +12,7 @@ altcover = "/images/photos/As far as the sea can reach 2 - Analog Photo by Natal
 # Release basics
 releaseartist = "Bella Comsom"
 releaseyear = "2025"
+releasedate = "01-06-2025"
 releaseformat = "Digital"
 
 releasecatnum = "EXZ001"
@@ -55,9 +56,9 @@ tracklist = [
 ]
 
 # Buttons
-# [[additionalLinks]]
-# name = ""
-# url = ""
+[[additionalLinks]]
+name = "Exformal Zones"
+url = "/zones"
 
 +++
 

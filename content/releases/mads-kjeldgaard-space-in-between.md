@@ -14,6 +14,7 @@ altcover = "/images/photos/Mads Kjeldgaard - Arizona Window 2024.jpg"
 # Release basics
 releaseartist = "Mads Kjeldgaard"
 releaseyear = "2024"
+releasedate = "01-09-2025"
 releaseformat = "CD-R/Digital/Video"
 
 releasecatnum = "EX001"
@@ -40,7 +41,6 @@ releasecattext = "Slow ambient piano looping with the window open and the outsid
 metadata = [
     "Artist: Mads Kjeldgaard",
     "Title: Space In Between",
-    "Release date: 01-09-2024",
     "Digital format: 96khz FLAC 24bit",
     "Physical release: CD-R with 160gr acid free, inkjet printed and dyed paper cover in a deluxe masterbag and 150 micron polypropylene sleeve with insert flap.",
     "Catalogue number: EX001",

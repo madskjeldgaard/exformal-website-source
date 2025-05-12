@@ -1,6 +1,11 @@
 +++
 title = "Giuseppe Pisano"
 artistname = "Giuseppe Pisano"
+artistphoto = "/images/artists/G. Pisano - Portrettbilde [cr. Andreas Sætre] - Giuseppe Pisano.jpg"
+artistphotocredit = "Andreas Sætre"
+date = "2025-05-13"
+draft=false
+
 description = """Giuseppe Pisano (b. 1991, Naples) is an electroacoustic music composer and a researcher in the field of sound studies.
 
 His work is characterised by the use of field recordings as a means of exploring space and understanding society. His writing explores sound perception, storytelling, epistemology and politics. As a musician, he composes acousmatic music and is known as a computer music improviser and acousmonium performer.
@@ -11,10 +16,6 @@ Giuseppe's music has been included in the programmes of many concerts and festiv
 
 Giuseppe has worked at InaGRM, EMS - Stockholm, Norwegian Academy of Music, Tbilisi State Conservatory and CityU Hong Kong. He has also given lectures, workshops and masterclasses for Notam and Interzona, and curated concert programmes for Electric Audio Unit in Norway and Audiorama in Sweden. He is currently a doctoral candidate at the Norwegian Academy of Music."""
 
-artistphoto = "/images/artists/G. Pisano - Portrettbilde [cr. Andreas Sætre] - Giuseppe Pisano.jpg"
-artistphotocredit = "Andreas Sætre"
-date = "2025-04-03"
-draft=true
 
 [[additionalLinks]]
 name = "giuseppepisano.com"

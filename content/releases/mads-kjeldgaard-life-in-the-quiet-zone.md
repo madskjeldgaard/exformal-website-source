@@ -1,6 +1,6 @@
 +++
 title = "Life in the Quiet Zone"
-draft=true
+draft=false
 
 categories = ["Digital"]
 tags = ["fieldrecording", "soundart", "soundscape", "quietzone", "s-train", "copenhagen"]
@@ -12,6 +12,7 @@ altcover = "/images/photos/quietzone/bw_DSCF8795.jpg"
 # Release basics
 releaseartist = "Mads Kjeldgaard"
 releaseyear = "2025"
+releasedate = "01-06-2025"
 releaseformat = "Digital"
 
 releasecatnum = "EXZ003"
@@ -55,8 +56,8 @@ tracklist = [
 
 # Buttons
 [[additionalLinks]]
-name = "madskjeldgaard.dk"
-url = "https://madskjeldgaard.dk"
+name = "Exformal Zones"
+url = "/zones"
 
 +++
 

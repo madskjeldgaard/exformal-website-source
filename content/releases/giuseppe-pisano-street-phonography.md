@@ -1,6 +1,6 @@
 +++
 title = "Street Phonography"
-draft=false
+draft=true
 
 # Images
 images = "/images/covers/streetphonographycover.jpg"
@@ -12,6 +12,7 @@ series = "Zone"
 # Release basics
 releaseartist = "Giuseppe Pisano"
 releaseyear = "2025"
+releasedate = "01-06-2025"
 releaseformat = "Digital"
 
 releasecatnum = "EXZ002"
@@ -61,9 +62,9 @@ tracklist = [
 ]
 
 # Buttons
-#[[additionalLinks]]
-#name = "The Pier is a free jazz drummer"
-#url = "Rane Urbane"
+[[additionalLinks]]
+name = "Exformal Zones"
+url = "/zones"
 
 +++
 
