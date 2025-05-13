@@ -2,7 +2,7 @@
 title = "Johanna Borchert and Anders Vestergaard"
 artistname = "Johanna Borchert and Anders Vestergaard"
 description = "A duo from Copenhagen, Denmark."
-artistphoto = ""
+artistphoto = "/images/photos/AndersOgJohannaLive-8370.jpg"
 artistphotocredit = ""
 date = "2025-01-06"
 draft=false
