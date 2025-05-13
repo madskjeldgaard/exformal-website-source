@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 
 title = "Mads Kjeldgaard"
 artistname = "Mads Kjeldgaard"
