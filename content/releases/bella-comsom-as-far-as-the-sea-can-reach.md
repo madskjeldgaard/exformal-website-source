@@ -3,7 +3,6 @@ title = "As Far as the Sea Can Reach"
 draft=true
 
 categories = ["Digital"]
-series = "Zone"
 
 # Images
 images = "/images/covers/asfarastheseacanreachcover.jpg"
@@ -14,6 +13,7 @@ releaseartist = "Bella Comsom"
 releaseyear = "2025"
 releasedate = "01-06-2025"
 releaseformat = "Digital"
+series="Exformal Zones"
 
 releasecatnum = "ZONE001"
 artistwebsite = ""

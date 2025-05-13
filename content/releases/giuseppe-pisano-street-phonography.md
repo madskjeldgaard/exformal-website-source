@@ -7,13 +7,13 @@ images = "/images/covers/streetphonographycover.jpg"
 altcover = "/images/photos/Foto 36 (Beka Javakhisvili) - Giuseppe Pisano.jpg"
 
 categories = ["Digital"]
-series = "Zone"
 
 # Release basics
 releaseartist = "Giuseppe Pisano"
 releaseyear = "2025"
 releasedate = "01-06-2025"
 releaseformat = "Digital"
+series="Exformal Zones"
 
 releasecatnum = "ZONE002"
 

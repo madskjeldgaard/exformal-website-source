@@ -14,9 +14,8 @@ releaseartist = "Mads Kjeldgaard"
 releaseyear = "2025"
 releasedate = "01-06-2025"
 releaseformat = "Digital"
-
 releasecatnum = "ZONE003"
-artistwebsite = "https://madskjeldgaard.dk"
+series="Exformal Zones"
 
 buylink="https://exformalrecords.bandcamp.com/"
 date = "2025-05-12"
