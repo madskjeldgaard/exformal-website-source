@@ -15,7 +15,7 @@ releaseyear = "2025"
 releasedate = "01-06-2025"
 releaseformat = "Digital"
 
-releasecatnum = "EXZ003"
+releasecatnum = "ZONE003"
 artistwebsite = "https://madskjeldgaard.dk"
 
 buylink="https://exformalrecords.bandcamp.com/"
@@ -35,10 +35,9 @@ metadata = [
     "Artist: Mads Kjeldgaard",
     "Title: Life in the Quiet Zone",
     "Digital format: 96khz FLAC 24bit",
-    "Catalogue number: EXZ003",
-    "Release date: 01-06-2025",
+    "Catalogue number: ZONE003",
     "Locations: Copenhagen, Denmark",
-    "Total running time: 00:00:00"
+    "Total running time: TODO"
 ]
 
 # Credits
@@ -51,7 +50,7 @@ credits = [
 
 # Tracks
 tracklist = [
-    ""
+    "TODO"
 ]
 
 # Buttons

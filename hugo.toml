@@ -4,12 +4,17 @@ title = 'Exformal Records'
 theme  = ["hugo-video", "exformal", "hugo-audio", "hugo-flickity-carousel", "hugo-art-support"]
 
 [[menu.main]]
+name = "ex"
+url = "/"
+weight = 1
+
+[[menu.main]]
 name = "zones"
 url = "/zones"
 weight = 1
 
 [[menu.main]]
-name = "releases"
+name = "catalogue"
 url = "/releases"
 weight = 2
 

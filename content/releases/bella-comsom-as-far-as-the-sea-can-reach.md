@@ -15,7 +15,7 @@ releaseyear = "2025"
 releasedate = "01-06-2025"
 releaseformat = "Digital"
 
-releasecatnum = "EXZ001"
+releasecatnum = "ZONE001"
 artistwebsite = ""
 
 buylink="https://exformalrecords.bandcamp.com/"
