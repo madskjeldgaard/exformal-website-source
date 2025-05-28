@@ -42,7 +42,7 @@ credits = [
     "Cover photo: André Moniz Vieira",
     "Design: Mads Kjeldgaard",
     "Mastering: Mads Kjeldgaard",
-    "Thanks from the artist: Just a big list of thanks to the people who travelled with me,  invited me to residencies,  or walked places - to Marta Marinelli,  Sara Anjo and her beautiful family,  Reza Mirabi,  Paolo Montella,  Giuseppe di Taranto,  Antonello Orlando,  Andrea Laudante,  Valentina Ciniglio,  Chris,  Carlo,  Guido,  Fabrizio and Beatrice from the Tavolo Infrasuoni,  L'OEOAS,  Sandra Giura Longo,  PerMagnus Lindborg,  Jillian Kwong,  Massimo Pecorella,  Carolina Mazzone and Giosuè,  Harriet Olsson,  Davide Palmentiero,  Massimo Varchione,  Claudio Panariello."
+    "Thanks from the artist: Just a big list of thanks to the people who travelled with me, invited me to residencies, or walked places - to Marta Marinelli, Sara Anjo and her beautiful family, Reza Mirabi, Paolo Montella, Andrea Saladino, Giuseppe di Taranto, Antonello Orlando, Andrea Laudante, Valentina Ciniglio, Chris, Carlo, Guido, Fabrizio and Beatrice from the Tavolo Infrasuoni, L'OEOAS, PerMagnus Lindborg, Massimo Pecorella, Carolina Mazzone and Giosuè, Harriet Olsson, Davide Palmentiero, Massimo Varchione, Claudio Panariello."
 ]
 
 # Tracks
