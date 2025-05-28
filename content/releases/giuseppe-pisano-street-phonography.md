@@ -1,6 +1,6 @@
 +++
 title = "Street Phonography"
-draft=true
+draft=false
 
 # Images
 images = "/images/covers/streetphonographycover.jpg"
@@ -11,7 +11,7 @@ categories = ["Digital"]
 # Release basics
 releaseartist = "Giuseppe Pisano"
 releaseyear = "2025"
-releasedate = "01-06-2025"
+releasedate = "15-06-2025"
 releaseformat = "Digital"
 series="Exformal Zones"
 

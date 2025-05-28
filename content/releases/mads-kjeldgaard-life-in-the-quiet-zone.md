@@ -12,7 +12,7 @@ altcover = "/images/photos/quietzone/bw_DSCF8795.jpg"
 # Release basics
 releaseartist = "Mads Kjeldgaard"
 releaseyear = "2025"
-releasedate = "01-06-2025"
+releasedate = "15-06-2025"
 releaseformat = "Digital"
 releasecatnum = "ZONE003"
 series="Exformal Zones"
@@ -27,7 +27,7 @@ audiotitle="Snippet from Life in the Quiet Zone"
 # -------------- METADATA ----------------------
 
 # Catalogue text (1-2 lines)
-releasecattext = "An audio poem about the so-called quiet zone in the Copenhagen S-train system."
+releasecattext = "An audio essay about the so-called quiet zone in the Copenhagen S-train system."
 
 # Metadata
 metadata = [
@@ -42,6 +42,7 @@ metadata = [
 # Credits
 credits = [
     "Mixed and mastered by: Mads Kjeldgaard at Vesyv",
+    "Recorded at: Vesyv, Copenhagen, Denmark",
     "Text: Mads Kjeldgaard",
     "Design: Mads Kjeldgaard",
     "Support: Koda Kultur <3"
@@ -60,9 +61,11 @@ url = "/zones"
 +++
 
 
+{{< quote text="...and in between, when the sound subsided, there was the never entirely ceasing murmur in my own ears." title="Rings of Saturn" author="W.G. Sebald" >}}
+
 # Enter: Zone
 
-{{< imgh src="/photos/quietzone/bw_DSCF8795.jpg" caption="View from the quiet zone. Photo: Mads Kjeldgaard 2025." >}}
+{{< imgh src="/photos/quietzone/bw_DSCF8788_02.jpg" caption="View from the zone. Photo: Mads Kjeldgaard 2025." >}}
 
 <!-- {{< imgh src="/photos/quietzone/bw_DSCF8772_02.jpg" caption="View from the zone. Photo: Mads Kjeldgaard 2025." >}} -->
 
@@ -85,7 +88,7 @@ The promise of the zone is this: Here you may find tranquility, you may be allow
 
 {{< imgh src="/photos/quietzone/bw_DSCF8855_01.jpg" caption="The zone in it's entirety. Photo: Mads Kjeldgaard 2025." >}}
 
-<!-- {{< imgh src="/photos/quietzone/bw_DSCF8788_02.jpg" caption="View from the zone. Photo: Mads Kjeldgaard 2025." >}} -->
+{{< imgh src="/photos/quietzone/bw_DSCF8795.jpg" caption="View from the quiet zone. Photo: Mads Kjeldgaard 2025." >}}
 
 ## Support
 

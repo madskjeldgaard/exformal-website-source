@@ -1,6 +1,6 @@
 +++
 title = "As Far as the Sea Can Reach"
-draft=true
+draft=false
 
 categories = ["Digital"]
 
@@ -11,7 +11,7 @@ altcover = "/images/photos/As far as the sea can reach 2 - Analog Photo by Natal
 # Release basics
 releaseartist = "Bella Comsom"
 releaseyear = "2025"
-releasedate = "01-06-2025"
+releasedate = "15-06-2025"
 releaseformat = "Digital"
 series="Exformal Zones"
 
@@ -22,8 +22,8 @@ buylink="https://exformalrecords.bandcamp.com/"
 date = "2025-04-04"
 
 # Audio player
-audiopath=""
-audiotitle=""
+# audiopath="/sound/Bella Comsom - As far as the sea can reach_web.mp3"
+# audiotitle="Bella Comsom - As Far as the Sea Can Reach"
 
 # -------------- METADATA ----------------------
 
