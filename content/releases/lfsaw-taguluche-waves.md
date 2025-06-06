@@ -21,8 +21,8 @@ releasecatnum = "ZONE004"
 buylink="https://exformalrecords.bandcamp.com/"
 
 # Audio player
-audiopath=""
-audiotitle=""
+audiopath="/sound/LFSaw - Taguluche Waves.mp3"
+audiotitle="LFSaw - Taguluche Waves"
 
 # -------------- METADATA ----------------------
 

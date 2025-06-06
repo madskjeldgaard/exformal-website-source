@@ -21,8 +21,8 @@ buylink="https://exformalrecords.bandcamp.com/"
 date = "2025-05-12"
 
 # Audio player
-audiopath="/sound/The Quiet Zone - Snippet1.mp3"
-audiotitle="Snippet from Life in the Quiet Zone"
+audiopath="/sound/01 Mads Kjeldgaard - Life in the Quiet Zone (narrated).mp3"
+audiotitle="Life in the Quiet Zone (narrated)"
 
 # -------------- METADATA ----------------------
 
@@ -50,13 +50,16 @@ credits = [
 
 # Tracks
 tracklist = [
-    "TODO"
+    "01. Life in the Quiet Zone (narrated) (00:10:11.33)",
+    "02. Life in the Quiet Zone (00:10:10.99)",
+    "Total running time: 00:20:22",
 ]
 
 # Buttons
+
 [[additionalLinks]]
-name = "Exformal Zones"
-url = "/zones"
+name = "watch video on YouTube"
+url = "https://www.youtube.com/watch?v=Z3YGYtXBEjc"
 
 +++
 

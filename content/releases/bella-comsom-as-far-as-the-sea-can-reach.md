@@ -22,8 +22,8 @@ buylink="https://exformalrecords.bandcamp.com/"
 date = "2025-04-04"
 
 # Audio player
-# audiopath="/sound/Bella Comsom - As far as the sea can reach_web.mp3"
-# audiotitle="Bella Comsom - As Far as the Sea Can Reach"
+audiopath="/sound/Bella Comsom - As far as the sea can reach_web.mp3"
+audiotitle="Bella Comsom - As Far as the Sea Can Reach"
 
 # -------------- METADATA ----------------------
 
@@ -52,13 +52,13 @@ credits = [
 
 # Tracks
 tracklist = [
-    ""
+    "1. As Far as the Sea Can Reach (04:01)"
 ]
 
 # Buttons
-[[additionalLinks]]
-name = "Exformal Zones"
-url = "/zones"
+#[[additionalLinks]]
+#name = "Exformal Zones"
+#url = "/zones"
 
 +++
 

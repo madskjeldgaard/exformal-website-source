@@ -57,7 +57,7 @@ tracklist = [
     "8. Bioluminescence",
     "9. Momento Celeste",
     "10. Dawn in São Lourenço",
-    "11. Fejr in Mokhattam",
+    "11. Fajr in Mokhattam",
     "12. Fuori stagione"
 ]
 
