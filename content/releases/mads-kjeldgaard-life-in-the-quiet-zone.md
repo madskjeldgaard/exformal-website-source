@@ -36,7 +36,7 @@ metadata = [
     "Digital format: 96khz FLAC 24bit",
     "Catalogue number: ZONE003",
     "Locations: Copenhagen, Denmark",
-    "Total running time: TODO"
+    "Total running time: 20:22"
 ]
 
 # Credits
@@ -52,7 +52,6 @@ credits = [
 tracklist = [
     "01. Life in the Quiet Zone (narrated) (00:10:11.33)",
     "02. Life in the Quiet Zone (00:10:10.99)",
-    "Total running time: 00:20:22",
 ]
 
 # Buttons

@@ -21,7 +21,7 @@ releasecatnum = "ZONE004"
 buylink="https://exformalrecords.bandcamp.com/"
 
 # Audio player
-audiopath="/sound/LFSaw - Taguluche Waves.mp3"
+audiopath="/sound/LFSaw_exformal_zones-submission_48k_24bit_draft-20250606.mp3"
 audiotitle="LFSaw - Taguluche Waves"
 
 # -------------- METADATA ----------------------
@@ -33,7 +33,7 @@ releasecattext = "Slow waves crash against the shoreline of the Atlantic island 
 metadata = [
     "Artist: LFSaw",
     "Title: Taguluche Waves",
-    "Digital format: 96khz FLAC 24bit",
+    "Digital format: 48khz FLAC 24bit",
     ]
 
 # Credits
