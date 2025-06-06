@@ -21,8 +21,8 @@ buylink="https://exformalrecords.bandcamp.com/"
 date = "2025-05-04"
 
 # Audio player
-#audiopath=""
-#audiotitle=""
+audiopath="/sound/09 Giuseppe Pisano - 09_Momento Celeste.wav.mp3"
+audiotitle="Momento Celeste"
 
 # -------------- METADATA ----------------------
 
