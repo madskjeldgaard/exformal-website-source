@@ -42,7 +42,7 @@ metadata = [
 # Credits
 credits = [
     "Cover photo: Natalia Joga",
-    "Recorded at: Sound Art Lab, Copenhagen, Denmark in 2024.",
+    "Recorded at: Sound Art Lab, Struer, Denmark in 2024.",
     "Text and liner notes: Bella Comsom",
     "Mastering: Mads Kjeldgaard",
     "Design: Mads Kjeldgaard",
