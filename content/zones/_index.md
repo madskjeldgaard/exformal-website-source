@@ -12,7 +12,8 @@ draft = false
 
 Exformal Zones is a series of releases exploring and expanding the art-form of *field recording* — the radical act of listening to a sound environment through microphones.
 
-{{< youtube WTpuHNoebjo >}}
+<!-- {{< youtube WTpuHNoebjo >}} -->
+{{< video src="zonestrailer_web" loop="true" muted="true" autoplay="true" >}}
 
 <br>
 
