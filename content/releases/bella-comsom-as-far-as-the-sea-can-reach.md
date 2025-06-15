@@ -64,7 +64,10 @@ tracklist = [
 
 # Between Two Seas
 
-At the shoreline: I was searching for the point where the two sides of the sea met. There was a thin strip of land dividing the sea in two. In the recording, I am positioned on this line, listening between the two seas. Two seas, because the land divided them, according to the moon, the season, and the time of day. It was 11:16 in the morning on the island, during a waning moon. If the horizon line defines the end of what is seen from the sea, what would define the end from the land? And what would it be like to listen to this boundary?
+When there’s no more land ~ when water overtakes both sides ~ when an island reaches its end ~ yet there’s still a thin strip of earth that divides the sea in two - 
+I was there, on that last boundary, that delicate thread that holds everything together.
+
+It’s like the spine of the body, the column that keeps you upright while everything else falls away, the narrow path that stands between two worlds.
 
 — Bella Comsom, 2025
 
