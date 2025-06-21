@@ -106,6 +106,10 @@ tracklist = [
 
 # Buttons
 [[additionalLinks]]
+name = "podcast"
+url = "https://soundcloud.com/thelakeradio/2-in-residency-with-mads-kjeldgaard"
+
+[[additionalLinks]]
 name = "video"
 url = "https://www.youtube.com/watch?v=VOCw9u5hhSg"
 
