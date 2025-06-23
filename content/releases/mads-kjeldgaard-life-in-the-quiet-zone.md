@@ -63,7 +63,7 @@ url = "https://www.youtube.com/watch?v=eJGkJ4-uyi8"
 +++
 
 
-{{< quote text="...and in between, when the sound subsided, there was the never entirely ceasing murmur in my own ears." title="Rings of Saturn" author="W.G. Sebald" >}}
+{{< quote text="The essay [exposes] contradictions while yearning for a definition of quiet that in the end is far different from silence." title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
 
 # Enter: Zone
 
@@ -87,6 +87,8 @@ Once inside the quiet zone, you will find it full of sounds. Through the glass d
 The promise of the zone is this: Here you may find tranquility, you may be allowed to concentrate or unwind for a moment. _You will not be bothered_. And yet, there is always something bothering you. The root of this is found upon entering the zone, where you tacitly accept the rules stickered on the door: A phone crossed out with a red line, and next to it an oddly egg-shaped head with a finger to its mouth, shushing you. In other words: _Keep quiet_. A sense of justice is emphasized by a glassy bowl above you containing a camera. Someone is observing, and you become an intense observer. The rules apply to everyone, you think, and they have a strange effect on your senses, heightening them, allowing you to detect any transgressions of the common ruleset. You were supposed to unwind here, and now your listening is sharpened: Who will be the first to break the rules, and what will be the consequence of this small crime? Sometimes, a person will look at you with hungry eyes, trembling lips, just on the verge of saying something to you, a small nicety or a remark about the weather. It’s almost impossible for them to hold back, and yet, this being the quiet zone after all, and the rules being clear, they do, and they stay silent. At other times, a person sits right under the sign indicating _no talking on the phone_ while talking on the phone. The audacity and stupidity of this paradox cause you to simmer. You consider saying something, but not only would the words uttered punctuate the queitude, the mere act of correcting a stranger is generally socially unacceptable here. Instead, you opt for something far more self-destructive: You do nothing and endure the provocation until you or the other person has to get off the train. Meanwhile, the magic of the zone has crumbled; it is no longer quiet.
 
 *— Mads Kjeldgaard, The B-Line S-train in Copenhagen, 2025.*
+
+{{< quote text="...and in between, when the sound subsided, there was the never entirely ceasing murmur in my own ears." title="Rings of Saturn" author="W.G. Sebald" >}}
 
 {{< imgh src="/photos/quietzone/bw_DSCF8855_01.jpg" caption="The zone in it's entirety. Photo: Mads Kjeldgaard 2025." >}}
 

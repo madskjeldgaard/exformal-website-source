@@ -68,6 +68,8 @@ url = "/zones"
 
 +++
 
+{{< quote text="Pisaro may have been searching for something else, but found an unexpected treasure..." title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+
 "There is an undefined zone where the elementary domain of nature - the contingencies - and the territory created by man intersect," Gilles Clement once wrote in his book *Traité succinct de l'art involontaire*. The intersection, which has always been central to the author's discourse, is in this case not exactly a physical place, but a place of interaction regulated by chance.
 
 Certainly, the involuntary artefacts that characterize the aesthetic experience of a place are the results of processes that are most likely to occur where human action is less intentional, or where it was intentional but no longer is. The third landscape, those borderscapes between the urban and the rural, with no clear destination, or the *friches*, the wastelands, either exhausted or forgotten, or simply unused when not fulfilling their seasonal purpose.

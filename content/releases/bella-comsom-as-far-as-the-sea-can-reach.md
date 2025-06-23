@@ -62,6 +62,8 @@ tracklist = [
 
 +++
 
+{{< quote text="... plunges us into the heart of the shore, with active but not turbulent surf lulling the listener into a sense of peace." title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+
 # Between Two Seas
 
 When there’s no more land ~ when water overtakes both sides ~ when an island reaches its end ~ yet there’s still a thin strip of earth that divides the sea in two - 

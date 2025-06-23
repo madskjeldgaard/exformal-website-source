@@ -6,7 +6,7 @@ draft=true
 categories = ["Digital"]
 
 # Images
-images = "/images/covers/quietzonecover.jpg"
+images = "/images/covers/valentinacinigliosonicinbetweenness.png"
 altcover = "/images/photos/sonic-inbetweenness/hadra_in_Sayida_Zaynab.jpg"
 
 # Release basics
