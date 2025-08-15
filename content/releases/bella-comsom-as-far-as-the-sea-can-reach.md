@@ -62,7 +62,9 @@ tracklist = [
 
 +++
 
-{{< quote text="... plunges us into the heart of the shore, with active but not turbulent surf lulling the listener into a sense of peace." title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+{{< quote title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+... plunges us into the heart of the shore, with active but not turbulent surf lulling the listener into a sense of peace.
+{{< /quote >}}
 
 # Between Two Seas
 

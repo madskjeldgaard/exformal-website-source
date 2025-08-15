@@ -63,7 +63,9 @@ url = "https://www.youtube.com/watch?v=eJGkJ4-uyi8"
 +++
 
 
-{{< quote text="The essay [exposes] contradictions while yearning for a definition of quiet that in the end is far different from silence." title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+{{< quote title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/" >}}
+The essay [exposes] contradictions while yearning for a definition of quiet that in the end is far different from silence.
+{{< /quote >}}
 
 # Enter: Zone
 
@@ -88,7 +90,9 @@ The promise of the zone is this: Here you may find tranquility, you may be allow
 
 *— Mads Kjeldgaard, The B-Line S-train in Copenhagen, 2025.*
 
-{{< quote text="...and in between, when the sound subsided, there was the never entirely ceasing murmur in my own ears." title="Rings of Saturn" author="W.G. Sebald" >}}
+{{< quote title="Rings of Saturn" author="W.G. Sebald" >}}
+...and in between, when the sound subsided, there was the never entirely ceasing murmur in my own ears.
+{{< /quote >}}
 
 {{< imgh src="/photos/quietzone/bw_DSCF8855_01.jpg" caption="The zone in it's entirety. Photo: Mads Kjeldgaard 2025." >}}
 

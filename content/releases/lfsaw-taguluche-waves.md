@@ -56,7 +56,9 @@ tracklist = [
 
 +++
 
-{{< quote text="As one listens, one remembers that no two waves are the same; they approach from different angles at different speeds, producing variances in volume ... recedes to a quiet ending like a needle in a groove." title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+{{< quote title="Review by acloserlisten.com" url="https://acloserlisten.com/2025/06/23/exformal-records-exformal-zones/">}}
+As one listens, one remembers that no two waves are the same; they approach from different angles at different speeds, producing variances in volume ... recedes to a quiet ending like a needle in a groove.
+{{< /quote >}}
 
 With this release, Till Bovermann aka. LFSaw, has recorded the shoreline of [La Gomera](https://en.wikipedia.org/wiki/La_Gomera), a small Spanish Canary Island off the coast of West Africa, in the Atlantic Ocean with an extensive setup of contact microphones, M/S microphones and geophones, turning the waves into a sensoric overflow. The result is a slow, crashing cycle of the ocean, contrasted with the sounds of a dishwasher.
 
