@@ -18,7 +18,7 @@ releasecatnum = "ZONE005"
 
 series="Exformal Zones"
 
-buylink="https://exformalrecords.bandcamp.com/"
+buylink="https://valentinaciniglio.bandcamp.com/album/sonic-in-betweenness-acts-of-devotion-in-public-spaces-egypt"
 
 # Audio player
 audiopath="/sound/03 Valentina Ciniglio - morning dhikr shaykh Ayman - Sayida Nafisa 2023.mp3"
