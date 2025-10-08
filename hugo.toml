@@ -41,6 +41,7 @@ featuredPostTitle = ''
 logo = 'logos/exformal-logo1.png'
 defaultImage = '/logos/exformal-logo1.png'
 footerText = "Exformal Records is a platform for experimental music, sounds and listening practices."
+showReleasesGridOnFrontPage="true"
 
 # Colors
 primaryColor = "#FF1818"
