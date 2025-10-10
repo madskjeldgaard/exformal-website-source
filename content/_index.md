@@ -9,3 +9,5 @@ draft: false
 {{< centeredtext >}}
 <h4><i>A platform for experimental music, sounds and listening practices.</i></h4>
 {{< /centeredtext >}}
+
+{{< video muted="true" autoplay="true" loop="true" src="ex002teaser" >}}
